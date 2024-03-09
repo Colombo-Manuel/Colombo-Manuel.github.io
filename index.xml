@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Colombo | B.A.B. Lab</title>
+    <link>https://Colombo-Manuel.github.io/</link>
+      <atom:link href="https://Colombo-Manuel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel Colombo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png</url>
+      <title>Manuel Colombo</title>
+      <link>https://Colombo-Manuel.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://Colombo-Manuel.github.io/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Opportunities for Grad Students!</title>
+      <link>https://Colombo-Manuel.github.io/post/new_positionsflyer/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/post/new_positionsflyer/</guid>
+      <description>&lt;p&gt;Are you interested in linking organic geochemistry and trace element analysis? Do you want to study the effect of iron and manganese oxides on organic carbon preservation in the world largest freshwater system? If so, follow this &lt;a href=&#34;https://Colombo-Manuel.github.io/opportunities/#curropp&#34;&gt;link!&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Paper Out!</title>
+      <link>https://Colombo-Manuel.github.io/post/new_paper_lo/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/post/new_paper_lo/</guid>
+      <description>&lt;p&gt;Our new paper &lt;a href=&#34;https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.12407&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Control of particulate manganese (Mn) cycling in halocline Arctic Ocean waters by putative Mn‐oxidizing bacterial dynamics”&lt;/a&gt; has been published. This large-scale field study combines trace element analysis with microbial data to unravel the geochemistry of Mn in the Canadian Arctic Ocean.&lt;/p&gt;
+&lt;p&gt;Through a cross disciplinary collaboration, we present the first holistic study of the biogeochemical cycling of particulate manganese (pMn), an essential micronutrient and reactive element, in the Canadian Arctic Ocean (CAO). By integrating pMn data with microbial community compositional data, we investigate the role of putative Mn-oxidizing bacteria in driving authigenic Mn precipitation in the CAO, especially in subsurface halocline waters. Additionally, our findings reveal the importance of low light intensity (reducing photoinhibition) and elevated dissolved Mn concentrations as the main environmental factors explaining the relatively large abundance Mn oxidizing bacteria found in water masses where pMn peaked.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coastal and Ocean Processes</title>
+      <link>https://Colombo-Manuel.github.io/research_themes/cop/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/research_themes/cop/</guid>
+      <description>&lt;p&gt;Understanding from small to large scale processes controlling the distribution and cycling of trace elements (TEs) and organic carbon (OC) in coastal environments and the open ocean is a primary endeavor of the geoscience community. This require a wide array of integrated knowledge, spanning from geochemistry, biology / microbiology and modelling, to unravel the complexity of freshwater, coastal and marine environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some of the work collaborators and myself have been tackling include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The assessment of freshwater, shelf ocean interaction and sediment resuspension events as significant source terms of bioactive TEs (e.g., Fe, Mn) to coastal water and the Arctic Ocean interior .&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-sharp-increase-in-dissolved-and-particulate-fe-as-well-as-other-lithogenic-derived-tes-in-the-canadian-arctic-archipelago-at-places-where-sediment-resuspension-was-higher-ie--transmissivity-drop-whereas-noticeable-lower-values-were-measured-in-the-tranquil-waters-in-the-western-archipelago-region&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Sharp increase in dissolved and particulate Fe, as well as other lithogenic-derived TEs, in the Canadian Arctic Archipelago at places where sediment resuspension was higher (i.e., &amp;gt; transmissivity drop), whereas noticeable lower values were measured in the tranquil waters in the western archipelago region.&#34; srcset=&#34;
+               /research_themes/cop/COP1_hu3c1ee14d5ed7c25f39894c4fb7b99d07_1904613_3e4cf430c6cf6bcb8b699929729d61cd.webp 400w,
+               /research_themes/cop/COP1_hu3c1ee14d5ed7c25f39894c4fb7b99d07_1904613_d61d7c9b162ff4339ba890e86382b53e.webp 760w,
+               /research_themes/cop/COP1_hu3c1ee14d5ed7c25f39894c4fb7b99d07_1904613_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Colombo-Manuel.github.io/research_themes/cop/COP1_hu3c1ee14d5ed7c25f39894c4fb7b99d07_1904613_3e4cf430c6cf6bcb8b699929729d61cd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;307&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Sharp increase in dissolved and particulate Fe, as well as other lithogenic-derived TEs, in the Canadian Arctic Archipelago at places where sediment resuspension was higher (i.e., &amp;gt; transmissivity drop), whereas noticeable lower values were measured in the tranquil waters in the western archipelago region.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The study of lateral transport of dissolved and particulate TEs by energetic boundary currents, which incorporate resuspended sediment from the slope, transporting this high signature over long distances at intermediate depth waters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;The investigation of the dynamic interplay among primary production (i.e., synthesis of organic matter), remineralization (i.e., microbial degradation) and scavenging removal modulating the distributions of numerous biogenic derived TEs, phosphorus, nitrogen and OC in the Arctic Ocean and North Subarctic Atlantic Ocean.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-positive-correlation-between-apparent-oxygen-utilization-aou-and-dissolved-fe-dfe-concentrations-in-intermediate-water-depth-in-baffin-bay-and-the-labrador-sea-evidence-the-input-of-this-important-micronutrient-as-result-of-organic-matter-degradation-by-microbial-activity-on-the-contrary-at-greater-depths-scavenging-removal-overpass-remineralization-inputs-as-shown-in-the-dfe-vs-aou-relationship-for-baffin-bay-deep-waters-bbdw-and-denmark-strait-overflow-waters-dsow&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The positive correlation between apparent oxygen utilization (AOU) and dissolved Fe (dFe) concentrations in intermediate water depth in Baffin Bay and the Labrador Sea evidence the input of this important micronutrient as result of organic matter degradation by microbial activity. On the contrary, at greater depths, scavenging removal overpass remineralization inputs as shown in the dFe vs. AOU relationship for Baffin Bay Deep Waters (BBDW) and Denmark Strait Overflow Waters (DSOW).&#34; srcset=&#34;
+               /research_themes/cop/COP2_hu1d9fe41c7111724082fbc066788fd1ee_3825996_a970241770b587579b11735850d83703.webp 400w,
+               /research_themes/cop/COP2_hu1d9fe41c7111724082fbc066788fd1ee_3825996_67a09876f493b55c6446103fb66714da.webp 760w,
+               /research_themes/cop/COP2_hu1d9fe41c7111724082fbc066788fd1ee_3825996_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Colombo-Manuel.github.io/research_themes/cop/COP2_hu1d9fe41c7111724082fbc066788fd1ee_3825996_a970241770b587579b11735850d83703.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;229&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The positive correlation between apparent oxygen utilization (AOU) and dissolved Fe (dFe) concentrations in intermediate water depth in Baffin Bay and the Labrador Sea evidence the input of this important micronutrient as result of organic matter degradation by microbial activity. On the contrary, at greater depths, scavenging removal overpass remineralization inputs as shown in the dFe vs. AOU relationship for Baffin Bay Deep Waters (BBDW) and Denmark Strait Overflow Waters (DSOW).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The redox cycling of dissolved Fe and Mn at the sediment water interphase, as well as, the study of microbially mediated Mn oxidation in subsurface Arctic waters.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The understanding of oceanic processes such water masses circulation in the Arctic Ocean employing dissolved Pb distribution as a transient tracer. Exploiting the large differences in Pb concentrations in the Arctic Ocean, and coupling field observations with model outputs, we traced the evolution of water masses circulating in the Arctic. In addition, we studied the scavenging dynamics developing a pseudo first order scavenging model to study the behaviour of dissolved Mn in deep, old and isolated waters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-relative-contribution-of-arctic-waters-vs-atlantic-derived-waters-having-a-higher-dissolved-pb-signature-due-to-anthropogenic-contamination-is-reflected-in-the-dpb-profiles-at-station-bb3-the-greater-contribution--of-arctic-waters-mixing-with-atlantic-derived-water-result-in-a-modest-increase-in-dpb-in-the-400-800-m-range-while-at-bb1-the-larger-proportion-of-atlantic-waters-clearly-translate-in-much-higher-dpb-at-this-station&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The relative contribution of Arctic waters vs. Atlantic derived waters –having a higher dissolved Pb signature due to anthropogenic contamination– is reflected in the dPb profiles. At station BB3 the greater contribution  of Arctic waters mixing with Atlantic derived water result in a modest increase in dPb in the ~400-800 m range, while at BB1 the larger proportion of Atlantic waters clearly translate in much higher dPb at this station.&#34; srcset=&#34;
+               /research_themes/cop/COP3_hu3c0e3b50e69f5e363a8a0c3b23da0fbc_549030_bd8dc6ffe92ced8703840d3c7378fae6.webp 400w,
+               /research_themes/cop/COP3_hu3c0e3b50e69f5e363a8a0c3b23da0fbc_549030_fb1cf6cc8b1843db13d3b75d2b5c7d0b.webp 760w,
+               /research_themes/cop/COP3_hu3c0e3b50e69f5e363a8a0c3b23da0fbc_549030_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Colombo-Manuel.github.io/research_themes/cop/COP3_hu3c0e3b50e69f5e363a8a0c3b23da0fbc_549030_bd8dc6ffe92ced8703840d3c7378fae6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;478&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The relative contribution of Arctic waters vs. Atlantic derived waters –having a higher dissolved Pb signature due to anthropogenic contamination– is reflected in the dPb profiles. At station BB3 the greater contribution  of Arctic waters mixing with Atlantic derived water result in a modest increase in dPb in the ~400-800 m range, while at BB1 the larger proportion of Atlantic waters clearly translate in much higher dPb at this station.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;p&gt;For more details about “&lt;strong&gt;Coastal and Ocean Processes&lt;/strong&gt;” related studies, please see the &lt;a href=&#34;https://Colombo-Manuel.github.io/publicationsb/#pubsec&#34;&gt;&amp;ldquo;Publications section&amp;rdquo;&lt;/a&gt; (filter tag: 
+
+&lt;mark&gt;Coastal &amp;amp; Ocean&lt;/mark&gt;)&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Riverine and Estuarine Geochemistry – the land to ocean continuum</title>
+      <link>https://Colombo-Manuel.github.io/research_themes/reg/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/research_themes/reg/</guid>
+      <description>&lt;p&gt;River systems and estuaries along with continental margins are a central component of the Earth’s OC and TE cycles by integrating multiple reservoirs and acting as source and/or sink terms. As such, in the B.A.B Lab we study from gauging the magnitude and processes governing the supply of TEs from rivers and continental shelf (especially bioactive TEs), to the complex processes that control OC cycling and transport along the river-ocean mixing endmembers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some work in this section includes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uncovering how latitudinal gradients of environmental conditions and bedrock geology control the distributions of TEs, rare earth element and isotopes in freshwater systems, and establishing baselines to evaluate the consequences of future anthropogenic impacts.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-for-instance-the-te-signature-of-small-permafrost-dominated-rivers-in-the-canadian-arctic-archipelago-is-strongly-dominated-by-north-to-south-gradients-in-environmental-conditions-as-the-development-of-permafrost-soils-and-vegetation-soil-organic-carbon-content-river-discharge-and-permafrost-active-layer-thickness-additionally-the-bedrock-geology-of-their-respective-drainage-basins-also-contributes-to-the-te-signature&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;For instance, the TE signature of small permafrost dominated rivers in the Canadian Arctic Archipelago is strongly dominated by North to South gradients in environmental conditions as the development of permafrost soils and vegetation, soil organic carbon content, river discharge, and permafrost active layer thickness. Additionally, the bedrock geology of their respective drainage basins also contributes to the TE signature.&#34; srcset=&#34;
+               /research_themes/reg/REG1_hu43c6cf84749314b36bb92e1f6dedd7ce_10056555_f243875c86a871636ed8d6757949a2fd.webp 400w,
+               /research_themes/reg/REG1_hu43c6cf84749314b36bb92e1f6dedd7ce_10056555_5bfe7c5647c332cd9057ce9dc3172005.webp 760w,
+               /research_themes/reg/REG1_hu43c6cf84749314b36bb92e1f6dedd7ce_10056555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Colombo-Manuel.github.io/research_themes/reg/REG1_hu43c6cf84749314b36bb92e1f6dedd7ce_10056555_f243875c86a871636ed8d6757949a2fd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      For instance, the TE signature of small permafrost dominated rivers in the Canadian Arctic Archipelago is strongly dominated by North to South gradients in environmental conditions as the development of permafrost soils and vegetation, soil organic carbon content, river discharge, and permafrost active layer thickness. Additionally, the bedrock geology of their respective drainage basins also contributes to the TE signature.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assessing the significance of continental contributions of TEs to the coastal environment under different environmental/climatic scenarios.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Studying the OC cycling along river ocean endmembers by employing a suite array of techniques such as bulk and compound specific stable isotopes and radiocarbon analyses, ramped oxidation analyses and microbial tracers. Coupling all these measurements, we are aiming to shed light on the complex processes (e.g. particulate settling, flocculation, increased productivity, degradation) which control the carbon cycling and transport along the river-ocean interphase, where strong gradients in biological, physical and chemical conditions take place. A special emphasis is given to study the terrestrial organic carbon alterations across the salinity gradient, which in turn affect organic carbon burial efficiency and yield climate implications.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-this-figure-displays-the-carbon-dioxide-co2-evolution-during-ramped-oxidation-analyses-of-selected-surficial-sediment-samples-from-the-rio-de-la-plata-estuary-argentina-as-well-as-the-modeled-activation-energy-of-such-samples-and-the-isotopic-composition-of-co2-at-selected-temperature-intervals-a-clear-difference-in-the-activation-energy-space-and-isotopic-composition-is-observed-between-the-samples-located-in-the-upper-sector-of-the-river-eg-927-yielding-more-depleted-δ13oc-values-older-ages-lower-fm-values-and-higher-activation-energy-and-sediments-in-the-outer-zone-salinity--20-psu-eg-1045-having-lower-activation-energy-ie-labile-material-enriched-δ13oc-and-younger-oc&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;This figure displays the carbon dioxide (CO2) evolution during ramped oxidation analyses of selected surficial sediment samples from the Rio de La Plata Estuary, Argentina, as well as, the modeled activation energy of such samples and the isotopic composition of CO2 at selected temperature intervals. A clear difference in the activation energy space and isotopic composition is observed between the samples located in the upper sector of the river (e.g., #927), yielding more depleted δ13OC values, older ages (lower Fm values) and higher activation energy, and sediments in the outer zone (salinity &amp;gt; 20 PSU; e.g., #1045) having lower activation energy (i.e., labile material), enriched δ13OC and younger OC.&#34; srcset=&#34;
+               /research_themes/reg/REG2_hu6c780d28f2cad5f1e4d6ebf4efa2c900_3950149_e2abda4278bbe063af9137a241140583.webp 400w,
+               /research_themes/reg/REG2_hu6c780d28f2cad5f1e4d6ebf4efa2c900_3950149_0656bc39f593ffcab5f93990b7e54a5f.webp 760w,
+               /research_themes/reg/REG2_hu6c780d28f2cad5f1e4d6ebf4efa2c900_3950149_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Colombo-Manuel.github.io/research_themes/reg/REG2_hu6c780d28f2cad5f1e4d6ebf4efa2c900_3950149_e2abda4278bbe063af9137a241140583.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;372&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      This figure displays the carbon dioxide (CO2) evolution during ramped oxidation analyses of selected surficial sediment samples from the Rio de La Plata Estuary, Argentina, as well as, the modeled activation energy of such samples and the isotopic composition of CO2 at selected temperature intervals. A clear difference in the activation energy space and isotopic composition is observed between the samples located in the upper sector of the river (e.g., #927), yielding more depleted δ13OC values, older ages (lower Fm values) and higher activation energy, and sediments in the outer zone (salinity &amp;gt; 20 PSU; e.g., #1045) having lower activation energy (i.e., labile material), enriched δ13OC and younger OC.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;br&gt;
+&lt;p&gt;For more details about “&lt;strong&gt;Riverine and Estuarine Geochemistry&lt;/strong&gt;” related studies, please see the &lt;a href=&#34;https://Colombo-Manuel.github.io/publicationsb/#pubsec&#34;&gt;&amp;ldquo;Publications section&amp;rdquo;&lt;/a&gt; (filter tag: 
+
+&lt;mark&gt;Rivers &amp;amp; Estuaries&lt;/mark&gt;)&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Environmental Chemistry and Health</title>
+      <link>https://Colombo-Manuel.github.io/research_themes/ech/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/research_themes/ech/</guid>
+      <description>&lt;p&gt;Human activities are a key source of pollutants to freshwater systems and the coastal environment, as well as, some chemicals have deleterious effects on human health. Throughout collaborative work with excellent colleagues, we work on multiple projects spanning from tracing urban-industrial effluents in rivers to pharmaceuticals in hospitals. Although it is not the primary research focus  in the B.A.B. Lab, we aim to develop it further in the coming years!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some of the project we work on include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We study the molecular composition and alteration of sterols and fatty acids from various environmental matrices (suspended particles, sediments, fishes, etc.) to trace   anthropogenic contamination from urban-industrial effluents in the Rio de La Plata, Argentina, contrasting highly impacted areas vs. non polluted tributaries. We also employ these biomarkers to obtain information about the diagenetic alteration of organic matter at the sediment water interface.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-in-this-principal-component-analysis-of-prochilodus-lineatus-muscle-sterol-composition-the-population-of-detritivorous-fishes-feeding-predominantly-in-the-proximities-of-the-polluted-buenos-aires-city-red-are-clearly-differentiated-from-those-fishes-feeding-in-the-northern-tributary-rivers-green-less-polluted-buenos-aires-fishes-have-higher-concentrations-of-fecal-sterols-eg-coprostanol-epicoprostanol-compared-to-those-sampled-in-the-tributary-rivers-which-have-a-dominance-of-plant-sterols-eg-sitosterol-campesterol-and-thus-reflect-a-more-natural-diet&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;In this Principal Component Analysis of Prochilodus lineatus muscle sterol composition, the population of detritivorous fishes feeding predominantly in the proximities of the polluted Buenos Aires city (red) are clearly differentiated from those fishes feeding in the northern tributary rivers (green; less polluted). Buenos Aires fishes have higher concentrations of fecal sterols (e.g., coprostanol, epicoprostanol) compared to those sampled in the tributary rivers, which have a dominance of plant sterols (e.g., sitosterol, campesterol), and thus, reflect a more “natural” diet. &#34; srcset=&#34;
+               /research_themes/ech/ECH1_huc55cb6187ded473265c556b66241e1bb_306335_6acc8b10c3aadb8b26cd5fd96bfa3b16.webp 400w,
+               /research_themes/ech/ECH1_huc55cb6187ded473265c556b66241e1bb_306335_48bb55f6a99d83560788cdda6fbaa2dd.webp 760w,
+               /research_themes/ech/ECH1_huc55cb6187ded473265c556b66241e1bb_306335_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Colombo-Manuel.github.io/research_themes/ech/ECH1_huc55cb6187ded473265c556b66241e1bb_306335_6acc8b10c3aadb8b26cd5fd96bfa3b16.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;580&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      In this Principal Component Analysis of Prochilodus lineatus muscle sterol composition, the population of detritivorous fishes feeding predominantly in the proximities of the polluted Buenos Aires city (red) are clearly differentiated from those fishes feeding in the northern tributary rivers (green; less polluted). Buenos Aires fishes have higher concentrations of fecal sterols (e.g., coprostanol, epicoprostanol) compared to those sampled in the tributary rivers, which have a dominance of plant sterols (e.g., sitosterol, campesterol), and thus, reflect a more “natural” diet.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;We developed and optimized a method for analyzing pharmaceuticals by HPLC MS/MS from surface samples, which was then applied in multiple studies to trace antineoplastic contamination in health care centers across Canada. This method was recently employed in Argentinean health care centers, being the first study dealing with this increasingly problematic issue in South American countries.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-concentrations-of-cytotoxic-drugs-detected-on-different-surfaces-at-three-different-argentinean-hospitals-top-to-bottom-panels-note-logarithmic-scale-of-y-axis-while-there-is-a-high-concentration-of-these-hazardous-drugs-in-the-clean-lab-area-where-only-trained-personnel-is-allowed-the-notably-high-values-measured-in-the-patient-area-eg-5-fluorouracil-cyclophosphamide-are-of-grater-concern-to-public-health-given-the-lack-of-personal-protective-equipment-and-unrestricted-nature-of-this-area&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Concentrations of cytotoxic drugs detected on different surfaces at three different Argentinean Hospitals (top to bottom panels; note logarithmic scale of y axis). While there is a high concentration of these hazardous drugs in the clean lab area, where only trained personnel is allowed, the notably high values measured in the patient area (e.g., 5-fluorouracil, cyclophosphamide) are of grater concern to public health given the lack of personal protective equipment and unrestricted nature of this area.&#34; srcset=&#34;
+               /research_themes/ech/ECH2_hudb222aeb85311e3c0cb999e1bcb86b8c_1086748_c691b7c147c731e2b695c7c13b56ea06.webp 400w,
+               /research_themes/ech/ECH2_hudb222aeb85311e3c0cb999e1bcb86b8c_1086748_148d04c1765fcd654df96eee55ddc602.webp 760w,
+               /research_themes/ech/ECH2_hudb222aeb85311e3c0cb999e1bcb86b8c_1086748_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Colombo-Manuel.github.io/research_themes/ech/ECH2_hudb222aeb85311e3c0cb999e1bcb86b8c_1086748_c691b7c147c731e2b695c7c13b56ea06.webp&#34;
+               width=&#34;684&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Concentrations of cytotoxic drugs detected on different surfaces at three different Argentinean Hospitals (top to bottom panels; note logarithmic scale of y axis). While there is a high concentration of these hazardous drugs in the clean lab area, where only trained personnel is allowed, the notably high values measured in the patient area (e.g., 5-fluorouracil, cyclophosphamide) are of grater concern to public health given the lack of personal protective equipment and unrestricted nature of this area.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;br&gt;
+&lt;p&gt;For more details about “&lt;strong&gt;Environmental Chemistry and Health&lt;/strong&gt;” related studies, please see the &lt;a href=&#34;https://Colombo-Manuel.github.io/publicationsb/#pubsec&#34;&gt;&amp;ldquo;Publications section&amp;rdquo;&lt;/a&gt; (filter tag: 
+
+&lt;mark&gt;Envir. Chem. &amp;amp; Envir. Health&lt;/mark&gt;)&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Paper Out!</title>
+      <link>https://Colombo-Manuel.github.io/post/new_paper_biogeo/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/post/new_paper_biogeo/</guid>
+      <description>&lt;p&gt;The new paper, lead by collaborator &lt;a href=&#34;https://www.eoas.ubc.ca/~brogalla/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Birgit Rogalla&lt;/a&gt;, &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JG007072&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Continental and Glacial Runoff Fingerprints in the Canadian Arctic Archipelago, the Inuit Nunangat Ocean”&lt;/a&gt; has been published. This study aims to provide a linkage between the terrestrial and marine environments, assessing the influence of freshwater inputs on biogeochemical cycles in the Canadian Arctic Ocean.&lt;/p&gt;
+&lt;p&gt;Rising temperatures and an acceleration of the hydrological cycle due to climate change are increasing river discharge, causing permafrost thaw, glacial melt, and a shift to a groundwater‐dominated system in the Arctic. These changes are funnelled to coastal regions of the Arctic Ocean where the implications for the distributions of nutrients and biogeochemical constituents are unclear. In this study, we investigate the impact of terrestrial runoff on marine biogeochemistry in Inuit Nunangat (the Canadian Arctic Archipelago) — a key pathway for transport and modification of waters from the Arctic Ocean to the North Atlantic — using sensitivity experiments from 2002‐2020 with an ocean model of manganese (Mn).&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Paper Out!</title>
+      <link>https://Colombo-Manuel.github.io/post/new_paper_jop/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/post/new_paper_jop/</guid>
+      <description>&lt;p&gt;The new paper, lead by collaborator Eric D Speranza, &lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/10781552231188320&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Initial assessment of multi-compound antineoplastic drug surface contamination in Argentinean healthcare centers: Insights into occupational exposures in South America”&lt;/a&gt; has been published.&lt;/p&gt;
+&lt;p&gt;Despite the growing concern regarding the passive occupational exposure to chemotherapy drugs, data from developing countries is extremely scarce, hindering the assessment of antineoplastic contamination in these countries where such drugs are increasingly used. As a first step towards filling this knowledge gap, we have measured antineoplastic drugs surface concentrations in multiple areas (i.e. Pharmacy, compounding room, daycare center patient hall) and surfaces of three representative public hospitals in Buenos Aires, Argentina, using well stablished wipe sampling and UPLC-MS/MS analysis. In this first survey in Argentina, we found complex and highly variable antineoplastic drugs distributions, accounting both for intra and inter hospital differences. Concentrations exceeding 1 ng cm-2 threshold level were found in several surfaces, pointing out the need for corrective actions to prevent occupational exposure of healthcare workers and public in general.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Opportunities</title>
+      <link>https://Colombo-Manuel.github.io/opportunities/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/opportunities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://Colombo-Manuel.github.io/publicationsb/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publicationsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://Colombo-Manuel.github.io/research/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://Colombo-Manuel.github.io/teaching/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of particulate manganese (Mn) cycling in halocline Arctic Ocean waters by putative Mn-oxidizing bacterial dynamics
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/lo_2023/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/lo_2023/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;LO2023.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Particulate Mn, given its high adsorptive capacity and oxidation potential, has profound impacts on the cycling of various trace elements and organic matter in the ocean. Moreover, particulate Mn acts as a sink (via oxidation and adsorption) or as a source (via remineralization and photoreduction) term of bioactive dissolved Mn(II). In the Canadian Arctic Ocean, particulate Mn distributions in the water column revealed the presence of distinctively high particulate Mn concentrations and an overwhelming dominance of the non-lithogenic component to the bulk particulate Mn pool. This phenomenon is of particular importance in halocline waters in the Canada Basin, the Canadian Arctic Archipelago and Baffin Bay, and near-bottom samples in Baffin Bay. Enhanced microbially-mediated Mn oxidation in the water column is suggested as the main mechanism driving the non-lithogenic dominance. Indeed, the microbial community composition data associated with high non-lithogenic particulate Mn (i.e., Mn oxides) display a high relative abundance of taxa (e.g., f.Pirellulaceae, o.Phycisphaerales, f.Cryomorphaceae, g. Moritella) that have been identified in Mn oxide enriched environments. Furthermore, numerous taxa identified in the Canada Basin halocline water, where non-lithogenic particulate Mn peaked, are phylogenetically related to known (cultured) Mn-oxidizing bacteria (MnOB; e.g., Rhodobacteraceae, Oceanospirillaceae, Rhizobiaceae, and other Alphaproteobacteria). Putative MnOB appears to proliferate in certain water masses having a unique set of environmental conditions: low light intensity—alleviating photoinhibition—and high dissolved Mn concentrations, the main drivers known to influence MnOB dynamic, and hence, Mn oxidation.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Continental and Glacial Runoff Fingerprints in the Canadian Arctic Archipelago, the Inuit Nunangat Ocean
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/jgrb_2023/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/jgrb_2023/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;JGRB2023.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Rising temperatures and an acceleration of the hydrological cycle due to climate change are increasing river discharge, causing permafrost thaw, glacial melt, and a shift to a groundwater-dominated system in the Arctic. These changes are funneled to coastal regions of the Arctic Ocean where the implications for the distributions of nutrients and biogeochemical constituents are unclear. In this study, we investigate the impact of terrestrial runoff on marine biogeochemistry in Inuit Nunangat (the Canadian Arctic Archipelago)—a key pathway for transport and modification of waters from the Arctic Ocean to the North Atlantic—using sensitivity experiments from 2002 to 2020 with an ocean model of manganese (Mn). The micronutrient Mn traces terrestrial runoff and the modification of geochemical constituents of runoff during transit. The heterogeneity in Arctic runoff composition creates distinct terrestrial fingerprints of influence in the ocean: continental runoff influences Mn in the southwestern Archipelago, glacial runoff dominates the northeast, and their influence co-occurs in central Parry Channel. Glacial runoff carries micronutrients southward from Nares Strait in the late summer and may help support longer phytoplankton blooms in the Pikialasorsuaq polynya. Enhanced glacial runoff may increase micronutrients delivered downstream to Baffin Bay, accounting for up to 18% of dissolved Mn fluxes seasonally and 6% annually. These findings highlight how climate induced changes to terrestrial runoff may impact the geochemical composition of the marine environment, and will help to predict the extent of these impacts from ongoing alterations of the Arctic hydrological cycle.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Initial assessment of multi-compound antineoplastic drug surface contamination in Argentinean healthcare centers: Insights into occupational exposures in South America
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/jopp_2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/jopp_2023/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;JOPP2023.png&#34; width=&#34;900&#34; height=&#34;900&#34; border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Introduction: Antineoplastic drug contamination can result in severe health effects for healthcare workers exposed to them. Despite the worldwide growing concern regarding these drugs and sustained monitoring efforts in developed countries, there is almost no data about surface contamination levels in Argentina, in particular, and South America, in general. Methods: Antineoplastic drug contamination was measured in three Argentinean public hospitals (pharmacy and daycare center areas) by surface wiping and liquid chromatography coupled with tandem mass spectrometry. Results and Discussion: Eleven drugs were detected, in 51 of 58 sampled surfaces, in variable concentrations from 0.00064 to 7.3 ng cm−2, with cyclophosphamide, gemcitabine, and paclitaxel as the most prevalent drugs. This highly variable antineoplastic distribution reflects differences in facility layout, number of patients, antineoplastic drug use, etc., at each hospital. Values exceeding the 1 ng cm−2 threshold were detected in 13 surfaces of the two hospitals handling the largest amounts of antineoplastic drugs. The cyclophosphamide 75th percentile averaged 0.030 ng cm−2 comparable to the high values reported more than 10 years ago for developed countries, emphasizing the potential of reducing antineoplastic contamination by implementing routine monitoring and improved cleaning and handling procedures. Conclusion: This study is the first survey of multi-compound surface antineoplastic contamination in Argentinean (and South American) hospitals, providing a baseline against which future studies can be compared. Widespread antineoplastic contamination has been detected on numerous surfaces, with concentrations surpassing suggested threshold exposure levels (1 ng cm−1) for some surfaces in two of the sampled hospitals.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Colombo-Manuel.github.io/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://Colombo-Manuel.github.io/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particulate trace element distributions along the Canadian Arctic GEOTRACES section: shelf-water interactions, advective transport and contrasting biological production
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/gca_2022/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/gca_2022/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publications/gca_2022/GCA2022_hu3179862c28a56bc79137be1e422e1e99_1665285_ddaad5463e39d64516b7a29d730d2e54.webp 400w,
+               /publications/gca_2022/GCA2022_hu3179862c28a56bc79137be1e422e1e99_1665285_fcd667368b2ccd43ce7ff86ce715cb9b.webp 760w,
+               /publications/gca_2022/GCA2022_hu3179862c28a56bc79137be1e422e1e99_1665285_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Colombo-Manuel.github.io/publications/gca_2022/GCA2022_hu3179862c28a56bc79137be1e422e1e99_1665285_ddaad5463e39d64516b7a29d730d2e54.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Marine particles are important regulators of the biogeochemistry of many trace elements and isotopes in the ocean, and as such, there has been an increasing motivation to unravel the processes which control their cycling. Here, we present vertical distributions of total particulate trace elements (Al, V, Fe, Mn and P) and particulate organic carbon and particulate nitrogen (POC and pN) collected during the GEOTRACES Canadian cruise in 2015 in the Canada Basin (CB), the Canadian Arctic Archipelago (CAA), Baffin Bay (BB) and the Labrador Sea (LS), where particulate trace metal data are scarce. While particulate trace elements are generally affected by one-dimensional dynamics in ocean waters (e.g. deposition, scavenging/remineralization, and sinking), lateral transport of lithogenic-derived particles (pAl, pV and pFe) plays a dominant role in shaping their distributions in the deep CB, BB and LS basins. Higher concentrations of the aforementioned particulate trace elements are measured along the flow path of boundary currents and in near-bottom waters. Unlike pAl, pV and pFe, primarily controlled by lithogenic sources, bulk pMn distributions in our study regions (with the exception of LS) are dominated by authigenic Mn+3/4 oxides, with distinctively high concentrations in CB and BB subsurface halocline waters, as well as in the deepest samples in BB. Enhanced bacterially-mediated Mn+2 oxide formation is anticipated to occur in these halocline waters which have the potential to sustain large populations of Mn oxidizing bacteria as result of the close sediment-water interactions and distinct environmental conditions of these water masses. Overall, the highest concentrations of pP, POC and pN occurred in surface and near-surface waters (&amp;gt;100 m) at the same density as a chlorophyll-a peak and transmissivity drop, with a clear west-east increasing concentration gradient from the CB to LS. In summary, biogeochemical cycles of particulate elements in the Canadian Arctic Ocean are controlled by enhanced lateral transport and sediment resuspension (pAl, pFe and pV), authigenic formation of Mn and biological production (pP, POC and pN).&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sediments in Sea Ice Drive the Canada Basin Surface Mn Maximum: Insights From an Arctic Mn Ocean Model
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/gbc_2022b/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/gbc_2022b/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;GBC2022b.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Biogeochemical cycles in the Arctic Ocean are sensitive to the transport of materials from continental shelves into central basins by sea ice. However, it is difficult to assess the net effect of this supply mechanism due to the spatial heterogeneity of sea ice content. Manganese (Mn) is a micronutrient and tracer which integrates source fluctuations in space and time while retaining seasonal variability. The Arctic Ocean surface Mn maximum is attributed to freshwater, but studies struggle to distinguish sea ice and river contributions. Informed by observations from 2009 IPY and 2015 Canadian GEOTRACES cruises, we developed a three-dimensional dissolved Mn model within a 1/12° coupled ocean-ice model centered on the Canada Basin and the Canadian Arctic Archipelago (CAA). Simulations from 2002 to 2019 indicate that annually, 87%–93% of Mn contributed to the Canada Basin upper ocean is released by sea ice, while rivers, although locally significant, contribute only 2.2%–8.5%. Downstream, sea ice provides 34% of Mn transported from Parry Channel into Baffin Bay. While rivers are often considered the main source of Mn, our findings suggest that in the Canada Basin they are less important than sea ice. However, within the shelf-dominated CAA, both rivers and sediment resuspension are important. Climate-induced disruption of the transpolar drift may reduce the Canada Basin Mn maximum and supply downstream. Other micronutrients found in sediments, such as Fe, may be similarly affected. These results highlight the vulnerability of the biogeochemical supply mechanisms in the Arctic Ocean and the subpolar seas to climatic changes.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arctic – Atlantic Exchange of the Dissolved Micronutrients Iron, Manganese, Cobalt, Nickel, Copper and Zinc With a Focus on Fram Strait
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/gbc_2022/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/gbc_2022/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;GBC2022.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The Arctic Ocean is considered a source of micronutrients to the Nordic Seas and the North Atlantic Ocean through the gateway of Fram Strait (FS). However, there is a paucity of trace element data from across the Arctic Ocean gateways, and so it remains unclear how Arctic and North Atlantic exchange shapes micronutrient availability in the two ocean basins. In 2015 and 2016, GEOTRACES cruises sampled the Barents Sea Opening (GN04, 2015) and FS (GN05, 2016) for dissolved iron (dFe), manganese (dMn), cobalt (dCo), nickel (dNi), copper (dCu) and zinc (dZn). Together with the most recent synopsis of Arctic-Atlantic volume fluxes, the observed trace element distributions suggest that FS is the most important gateway for Arctic-Atlantic dissolved micronutrient exchange as a consequence of Intermediate and Deep Water transport. Combining fluxes from FS and the Barents Sea Opening with estimates for Davis Strait (GN02, 2015) suggests an annual net southward flux of 2.7 ± 2.4 Gg·a−1 dFe, 0.3 ± 0.3 Gg·a−1 dCo, 15.0 ± 12.5 Gg·a−1 dNi and 14.2 ± 6.9 Gg·a−1 dCu from the Arctic toward the North Atlantic Ocean. Arctic-Atlantic exchange of dMn and dZn were more balanced, with a net southbound flux of 2.8 ± 4.7 Gg·a−1 dMn and a net northbound flux of 3.0 ± 7.3 Gg·a−1 dZn. Our results suggest that ongoing changes to shelf inputs and sea ice dynamics in the Arctic, especially in Siberian shelf regions, affect micronutrient availability in FS and the high latitude North Atlantic Ocean.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Controlling factors and impacts of river-borne neodymium isotope signatures and rare earth element concentrations supplied to the Canadian Arctic Archipelago
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/epsl_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/epsl_2022/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;EPSL2022.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Determining the factors controlling the neodymium (Nd) isotopic compositions (expressed as εNd) and rare earth element (REE) concentrations of rivers is imperative to improve our understanding of the distribution of these water mass tracers in the ocean. Here we present the first measurements of &amp;lt;0.45 μm-filtrate REE concentrations (i.e., the concentration of truly dissolved, nano-particulate and colloidal REEs passing through a 0.45 μm filter, hereafter referred to as dissolved) and εNd in rivers draining into the Canadian Arctic Archipelago (CAA). Results show a large variation in both REE concentrations (Nd=[8;37,260] pmol/kg) and εNd ([−32.1;−15.1]) in the thirteen rivers sampled. Dissolved REE concentrations increase with increasing fractions of metamorphic rocks and ice cover in the rivers&amp;rsquo; watersheds, while εNd and PAAS-normalized REE patterns are inherited from the watershed&amp;rsquo;s bedrock lithology. The four rivers draining watersheds composed of Precambrian metamorphic rocks exhibit the highest REE concentrations, the least radiogenic εNd, and shale-normalized patterns enriched in light REEs. The remaining nine rivers drain mainly or exclusively sedimentary bedrock and have lower REE concentrations, more radiogenic εNd and generally show heavy REE enrichment, with variable negative cerium (Ce) anomalies. The presence of ice sheets in the drainage area, and the ionic strength, pH, and dissolved organic carbon concentration of river water are the main factors determining riverine dissolved REE concentrations by controlling the formation and stabilization of colloids. We estimate a flow of dissolved Nd transported by Arctic rivers discharging into the CAA equivalent to the Nd flux of seawater entering the CAA. Depending on the percentage of Nd removal during mixing with seawater, the impact of river water on the εNd of seawater exiting the CAA could be modest (if 90% removal) or more significant (if ≪90% removal). This riverine contribution could potentially impart a climate-sensitive εNd signature to the seawater reaching Baffin Bay, with possible implications for the use of εNd in paleoceanographic reconstructions of water mass distribution.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Canadian Arctic Archipelago Shelf‐Ocean Interactions: A Major Iron Source to Pacific Derived Waters Transiting to the Atlantic
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/gbc_2021/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/gbc_2021/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;GBC2021.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Continental shelves are important sources of iron (Fe) in the land-dominated Arctic Ocean. To understand the export of Fe from the Arctic to Baffin Bay (BB) and the North Atlantic, we studied the alteration of the Fe signature in waters transiting the Canadian Arctic Archipelago (CAA). During its transit through the CAA, inflowing Arctic Waters from the Canada Basin become enriched in Fe as result of strong sediment resuspension and enhanced sediment-water interactions (non-reductive dissolution). These high Fe waters are exported to BB, where approximately 10.7 kt of Fe are delivered yearly from Lancaster Sound. Furthermore, if the two remaining main CAA pathways (Jones Sound and Nares Strait) are included, this shelf environment would be a dominant source term of Fe (dFe + pFe: 26–90 kt y−1) to Baffin Bay. The conservative Fe flux estimate (26 kt y−1) is 1.7–38 times greater than atmospheric inputs, and may be crucial in supporting primary production and nitrogen fixation in BB and beyond.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anthropogenic lead pervasive in Canadian Arctic seawater
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/pnas_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/pnas_2021/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;PNAS2021.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Anthropogenic Pb is widespread in the environment including remote places. However, its presence in Canadian Arctic seawater is thought to be negligible based on low dissolved Pb (dPb) concentrations and proxy data. Here, we measured dPb isotopes in Arctic seawater with very low dPb concentrations (average ∼5 pmol ⋅ kg−1) and show that anthropogenic Pb is pervasive and often dominant in the western Arctic Ocean. Pb isotopes further reveal that historic aerosol Pb from Europe and Russia (Eurasia) deposited to the Arctic during the 20th century, and subsequently remobilized, is a significant source of dPb, particularly in water layers with relatively higher dPb concentrations (up to 16 pmol ⋅ kg−1). The 20th century Eurasian Pb is present predominantly in the upper 1,000 m near the shelf but is also detected in older deep water (2,000 to 2,500 m). These findings highlight the importance of the remobilization of anthropogenic Pb associated with previously deposited aerosols, especially those that were emitted during the peak of Pb emissions in the 20th century. This remobilization might be further enhanced because of accelerated melting of permafrost and ice along with increased coastal erosion in the Arctic. Additionally, the detection of 20th century Eurasian Pb in deep water helps constrain ventilation ages. Overall, this study shows that Pb isotopes in Arctic seawater are useful as a gauge of changing particulate and contaminant sources, such as those resulting from increased remobilization (e.g., coastal erosion) and potentially also those associated with increased human activities (e.g., mining and shipping).&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>The application of novel field measurement and field evaluation protocols for assessing health care workers’ exposure risk to antineoplastic drugs</title>
+      <link>https://Colombo-Manuel.github.io/publications/joeh_2020/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/joeh_2020/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;JOEH2020.png&#34; width=&#34;900&#34; height=&#34;900&#34; border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Contamination of multiple antineoplastic drugs (ADs) on work surfaces presents an exposure concern for health care workers. Surface wipe sampling is a recognized method to evaluate the degree of contamination present. Our research team has previously reported on wipe sampling and analytical methods to simultaneously detect 10 commonly used ADs from a single wipe. Our objectives here were: to field test a protocol consisting of the wipe sampling method and an accompanying wipe sample collection tool kit and confirm this protocol can be effectively used by health care workers to assess drug contamination levels in their facilities; and, to confirm the potential for simultaneous exposure to multiple antineoplastic drugs. Three facilities within one health authority in British Columbia, Canada participated in this field study. In collaboration with the site health and safety advisors, up to 25 surfaces within each facility were considered for sampling. Collected wipe samples were analyzed using HPLC-MS/MS to quantify the 10 analyte, resulting in 750 potential analyses. Following the sampling, each of the three facilities’ safety advisors provided feedback regarding the usability of the protocols. Among the 72 wipe samples actually collected (or 720 analyses conducted), detectable levels and simultaneous contamination of work surfaces of five of the 10 analytes were found at all three participating sites: 5-fluorouracil, cyclophosphamide, vincristine, paclitaxel, and methotrexate; (range &amp;lt; LoD to 33.0 ng/cm2) with 5-fluorouracil having the highest concentration in every instance. Drug contamination was found on a variety of different work surfaces in pharmacies and patient care areas among all three sites. Users of the sampling protocols were generally satisfied with the wipe sample collection toolkit with some minor suggestions for improvement. Our findings support the hypothesis that health care workers may be simultaneously at risk of exposure to several ADs. Our toolkit was found to be user-friendly and manageable by those who were not experienced in collecting wipe samples to monitor contamination of ADs on the work surfaces in their facilities.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dissolved iron and manganese in the Canadian Arctic Ocean: on the biogeochemical processes controlling their distributions
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/gca_2020/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/gca_2020/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;GCA2020.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Dissolved iron (DFe) and manganese (DMn) are essential micronutrients involved in vital phytoplankton physiological pathways, and their deficit can limit primary production in otherwise nutrient-replete surface ocean waters. In this work we present the spatial distributions and biogeochemical cycling of these metals across the Canadian GEOTRACES transect in the Canadian Arctic Ocean during the summer and autumn of 2015. Surface concentrations are dominated by freshwater inputs showing a strong negative correlation with salinity, especially for DMn which behaves more conservatively than DFe. The highest surface concentrations were measured in the Canadian Arctic Archipelago (Fe: 0.401–1.91 and Mn: 4.33–9.54 nmol kg−1) and the Canada Basin (Fe: 0.225–0.479 and Mn: 3.93–7.02 nmol kg−1), regions highly influenced by riverine inputs, whereas the lowest values were found in the Labrador Sea (Fe: 0.106–0.362 and Mn: 0.450–1.09 nmol kg−1) where freshwater inputs diminished and phytoplankton uptake increased. Subsurface and deep water distributions for both metals are largely controlled by a complex balance between sources (advective inputs and organic matter remineralization) and removal processes. The subsurface peaks (∼100–300 m) observed in the Canada Basin (Fe: 0.541 ± 0.060 and Mn: 1.38 ± 0.42 nmol kg−1) and Baffin Bay (Fe: 0.753–1.03 nmol kg−1) were advected from the Chukchi Sea and the Canadian Arctic Archipelago respectively, where DFe and DMn are released from the benthic boundary layer in these shelf-dominated environments. Advective sources associated with the Arctic Circumpolar Boundary Current, rather than vertical fluxes of DFe and DMn in sinking particles, dominate metal distributions in the deep Canada Basin waters (&amp;gt;300 m). In the highly productive Baffin Bay and the Labrador Sea, organic matter remineralization is a notable source of DFe and DMn to deep waters. In the deepest waters (&amp;gt;1000 m), scavenging of DFe and DMn govern their vertical distributions; a pseudo-first order scavenging model explained the continuous removal of DMn in the Canada Basin, where the concentrations reach uniformly low concentrations (0.150 ± 0.004 nmol kg−1) after ∼400 years. Applying this DMn scavenging model we were able to estimate the age (120–190 years) of deep Baffin Bay waters, a topic of discussion for many years.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alterations in the sterol signature of detritivorous fish along pollution gradients in the Río de la Plata basin (Argentina): From plant to sewage-based diet
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/er_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/er_2020/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;ER2020.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: In order to assess the impact of sewage pollution on the diet of the strict detritivorous and migratory South American fish, Prochilodus lineatus, 16 sterol biomarkers were analyzed by gas chromatography-mass spectrometry from fish muscle (n: 144) collected along 1200 km in the Rio de la Plata basin. Sterol concentrations were fairly homogeneous (2.4 ± 1.3 mg g−1 dry weight), but their proportion in lipids was highly variable and inversely related to both body mass and lipid contents, reflecting the more conservative character of sterols compared to the rapid accumulation of fat as fish grows. As expected, the muscle sterol signature was widely dominated by cholesterol (92 ± 4.5% of total sterols), but it exhibited a remarkable diversity with variable proportions of fecal coprostanol (4.0 ± 4.4%) and plant sterols (3.1 ± 1.9%, e.g. sitosterol and campesterol). Muscle sterols exhibited contrasting geographical differences associated with dietary shifts from plant-derived detritus in the northern reaches of the basin (N: Paraná and Uruguay Rivers), to sewage dominated inputs at Buenos Aires (BA). Fish from BA are fattier (lipids: 35 ± 18 vs. 15 ± 9.0% at N), with higher total sterol contents (2.6 ± 1.3 vs. 1.9 ± 1.0 mg g−1), abundant coprostanol (5.3 ± 4.4 vs. 0.46 ± 1.1%) and lower plant sterols (2.6 ± 1.6 vs 4.6 ± 2.0%), reflecting a diet shifted to anthropogenic organic matter as opposed to vegetal detritus in the north. Accordingly, BA fish presented lower phyto/fecal sterol ratios (0.37 ± 0.21 vs. 0.91 ± 0.12 at N) and higher copro/epicoprostanol ratios (0.95 ± 0.082 vs 0.51 ± 0.25 at N), indicating fresh fecal inputs which provide a valuable supply of easily absorbed organic matter at this site. In addition, the sterol signature allowed to distinguish migratory fish from BA collected 900 km north (previously identified by their pollutant fingerprint and biochemical composition). In fact, coprostanol concentrations show a direct relationship with human populations along the basin, highlighting the usefulness of fecal sterol biomarkers as tracers of polluted fish stocks.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://Colombo-Manuel.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trace metal geochemistry of remote rivers in the Canadian Arctic Archipelago
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/cg_2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/cg_2019/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;CG2019.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Trace metals are essential micronutrients for phytoplankton, as well as useful tracers of biogeochemical processes in aquatic systems. The largest Arctic rivers are known to play an important role in the cycling of trace metals in the Arctic Ocean; however, these systems account for little more than half of Arctic freshwater discharge, leaving a major gap in our understanding of the trace metal geochemistry from smaller river systems. This is especially problematic for rivers draining the Arctic coastal margins, as these continuous permafrost systems are anticipated to be particularly sensitive to climate change. This study presents the first observations of dissolved and particulate trace metal concentrations and lead isotopes in 14 rivers in the Canadian Arctic Archipelago (CAA). Dissolved concentrations of aluminum, iron, manganese, nickel, copper, zinc, cadmium, and lead display clear spatial variability in their distributions. Small rivers located in the central islands of the CAA have remarkably low concentrations of these trace metals, while the rivers draining the southern continental landmass have higher values. This geographic variability in dissolved metal concentrations reflects both differences in bedrock geology and the South-North environmental gradients in the Archipelago. We extrapolate these findings to estimate the dissolved trace metal concentrations for other rivers draining the CAA based on their geographic location. Elemental ratios measured in the suspended particulate matter in several rivers indicates a significant enrichment of nickel, copper, zinc, and lead over the crustal composition. In particular, lead isotope composition shows an extremely large range, varying from the highly radiogenic Tree River (206Pb/207Pb: 1.5121) in the south, to the relatively unradiogenic Glacier River (206Pb/207Pb: 1.0153) in the central CAA. Lack of correlation between the Pb isotopic composition and Pb enrichment, suggests Pb is derived from within the watershed. This work presents the first observations of dissolved and particulate trace metal concentrations in small coastal draining rivers from the CAA, an important first step in developing a baseline against which to evaluate future change in the high Arctic.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tracing Dissolved Lead Sources in the Canadian Arctic: Insights from the Canadian GEOTRACES Program
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/acsesp_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/acsesp_2019/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;ACSEPS2019.png&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: This study addresses an important knowledge gap in the distribution of lead (Pb) in the Arctic Ocean, by presenting dissolved Pb concentrations from samples collected during the GEOTRACES Canadian cruise in 2015. Dissolved Pb showed an increase in concentration from the Canada Basin toward Baffin Bay and the Labrador Sea. Canada Basin was the most isolated region from anthropogenic Pb inputs with low background concentrations (1.4−6.2 pmol kg−1) across most of the basin, although higher Pb features from the advection of Pacific-derived waters and sea ice meltwater were present. Likewise, high-Pb peaks (13.5−26.6 pmol kg−1) along narrow isopycnal surfaces (σθ, 27.4−27.6) in Baffin Bay were attributed to the advection of North Atlantic waters spreading a high-Pb signature into the bay, contrasting with the low values (2.5−7.4 pmol kg−1) present in the mixed layer, Arctic and Baffin Bay deep waters. The Labrador Sea, largely influenced by the recirculation of North Atlantic waters, had the highest Pb concentrations (∼17−34 pmol kg−1) measured in this study. The Canadian Arctic Archipelago (CAA) represents a transition environment influenced by Arctic waters imprinting a low-Pb signature in the western CAA and the southern side of Parry Channel, while Baffin Bay waters prevailed in the eastern CAA recirculating westward along the northern side of Parry Channel and progressively losing their relatively high Pb signature. Extremely low concentrations were measured in Canada Basin and CAA waters, which reflect the remoteness of this region from anthropogenic inputs as well as the old ventilation age of deep waters’ masses, providing a baseline for assessing future Pb studies. Finally, we successfully integrate modeling data with field observations demonstrating that dissolved lead, due to its distinctive anthropogenic signature in North Atlantic waters, can be a useful complementary tracer of water masses in the Canadian Arctic Ocean.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Early diagenetic alterations of sterol biomarkers during particle settling and burial in polluted and pristine areas of the Rio de la Plata Basin</title>
+      <link>https://Colombo-Manuel.github.io/publications/og_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/og_2018/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;OG2018.png&#34; width=&#34;900&#34; height=&#34;900&#34; border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Sources and diagenetic alterations of sterol markers were studied in settling material and sediments near the Buenos Aires main sewer (BA), and at a relatively non-polluted northern site at the Uruguay River (N). Vertical particle fluxes were 7-times higher at BA relative to N (34 ± 24 vs 4.6 ± 3.6 mg/cm2/day; mean ± standard deviation), increasing during rainy months. Total sterol contents were consistently higher at BA, both in settling material (7140 ± 7905 vs 41 ± 47 μg/g at N) and sediments (708 ± 454 vs 1.9 ± 0.18 μg/g). This difference was further amplified in the vertical flux of sterols (116 ± 168 vs 0.070 ± 0.13 mg/cm2/year). At BA, sterol composition of settling material and sediments was dominated by fecal sterols (75–77%), with extreme coprostanol concentrations (3.6 ± 4.8 vs 0.35 ± 0.28 mg/g at N) which are similar to sewage sludge. In contrast, at N the sterol profile was dominated by plant sterols (57–64%), mainly sitosterol, stigmasterol and campesterol. At BA the discharge of fresh sewage was confirmed by the high coprostanol/(coprostanol + epicoprostanol) ratio. At N, the overwhelming dominance of plant sterols over herbivore fecal sterols was reflected by the high sitosterol/(sitosterol + 24-ethylcoprostanol) ratio and the low coprostanol/(coprostanol + 24-ethylcoprostanol) ratio. The coprostanol/(coprostanol + epicoprostanol) and cholesterol/(cholesterol + cholestanol) ratios were lower in sediments than in settling material, reflecting the sterol degradation at the sediment surface. The accumulation efficiencies, calculated as the difference between trap fluxes and sediment inventories, were 2–7 times higher at BA reflecting strong vertical fluxes and enhanced preservation under anoxic conditions. During diagenetic processes, epicoprostanol (partially produced in situ), cholestanol and plant sterols were the best-preserved sterols, while cholesterol was the most labile during burial.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wipe Sampling Method and Evaluation of Environmental Variables for Assessing Surface Contamination of 10 Antineoplastic Drugs by Liquid Chromatography/Tandem Mass Spectrometry</title>
+      <link>https://Colombo-Manuel.github.io/publications/aweh_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/aweh_2017/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;AWEH.png&#34; width=&#34;900&#34; height=&#34;900&#34; border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: This paper describes a novel wipe sampling and high-performance liquid chromatography/tandem mass spectrometry (HPLC-MS/MS) method capable of simultaneously detecting 10 antineoplastic drugs (5-fluorouracil, oxaliplatin, methotrexate, vindesine, ifosfamide, cyclophosphamide, vincristine, vinblastine, docetaxel, and paclitaxel). The good overall recoveries and sensitivity values of this method along with the comparatively short run time (8 min) allows for its use in routine monitoring in health care facilities. The long-term behavior of the studied drugs on contaminated surfaces and the effect of surface roughness on drug recoveries were studied to gain insights about how these environmental variables influence the detection, cleaning, and occupational exposure of these drugs. Surfaces with higher roughness parameter (Ra) values (rougher) had the lowest recoveries while those with lower Ra (smoother) presented the highest recoveries. Long-term assessments evidence distinctive drug behaviors with oxaliplatin, vindesine, vincristine, and vinblastine being the less persistent drugs (~20% was recovered after 24 h) and docetaxel and paclitaxel the most persistent drugs with recoveries of 40% and 80% after 1 month. This information indicates the importance of collecting ancillary information about drug usage (throughput, timing, cleaning procedures, etc.) to interpret the results in the context of potential exposure. Finally, the method was successfully applied to evaluate trace surface contamination down to the single picogram per square centimeter in multiple work areas within three local health care centers on Vancouver Island, Canada.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fatty acid alterations in the detritivorous Prochilodus lineatus promoted by opportunistic feeding on sewage discharges in the Río de la Plata estuary</title>
+      <link>https://Colombo-Manuel.github.io/publications/jfb_2016/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/jfb_2016/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;JFB.png&#34; width=&#34;900&#34; height=&#34;900&#34; border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Muscle fatty acid profiles and PCB contents of the detritivorous species Prochilodus lineatus and its diet (stomach contents, settling particles and sediments) were analysed from reference and polluted areas of the Paraná-Rio de la Plata basin, to evaluate the alterations produced by opportunistic feeding on sewage discharges. Overall muscle fatty acid composition was dominated by saturated and monounsaturated 16 and 18 carbon (18 C-FA) components with reduced long-chain polyunsaturated fatty acids (LC-PUFA). Compared to sediments, settling particles and stomach contents were enriched in lipids and had a similar fatty acid composition. Opportunistic feeding on sewage detritus at Buenos Aires resulted in enhanced PCB and triglyceride accumulation, with higher proportions of 18 C-FA and lower proportions of 16:1 and LC-PUFA compared to fish from northern pristine reaches of the basin. Mid-Paraná showed intermediate values reflecting mixing of the North stock with migrating Buenos Aires P. lineatus identified by their lipid and contaminant profile. According to multivariate analyses, this geographical variation of fatty acid composition was strongly influenced by PCB concentration. Prochilodus lineatus assimilates the energy subsidy of sewage inputs through enhanced lipogenesis with dominant 18 C-FA and significant amounts of valuable LC-PUFA. This lipid alteration facilitates the bioaccumulation of PCBs which in turn may reinforce the adipogenic effect of sewage feeding.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Removal and Re-use of Tar-contaminated Sediment by Freeze-dredging at a Coking Plant Luleå, Sweden</title>
+      <link>https://Colombo-Manuel.github.io/publications/wer_2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/wer_2016/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;WER.png&#34; width=&#34;900&#34; height=&#34;900&#34; border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Submerged tar-contaminated sediment are generally very loose, which makes remediation challenging. We tested if a modified version of freeze-dredging could be used to remove and dewater such sediment in a canal down-stream a coking plant. PVC hoses carrying a heat medium were placed horizontally in the submerged sediment. Five days of freezing allowed straightforward removal of most of the sediment. Flat freeze cells were placed side by side in the canal to remove the rest. The freeze-thaw process increased the dry substance content from approximately 50 to 80%. Outdoors storage under rainy conditions did not re-wet the dried sediment. The material was successfully used as feed-stock in the coking plant, with the double cost-benefit of avoided transportation to deposit and reduced use of coal. The study demonstrates that freeze-dredging can facilitate removal, storage and beneficial re-use of submerged tar-contaminated sediment.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://Colombo-Manuel.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A surface wipe sampling and LC–MS/MS method for the simultaneous detection of six antineoplastic drugs commonly handled by healthcare workers</title>
+      <link>https://Colombo-Manuel.github.io/publications/abc_2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/abc_2015/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;ABC.png&#34; width=&#34;900&#34; height=&#34;900&#34; border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: An effective wipe sampling and LC–MS/MS method was developed to simultaneously analyze six commonly administered antineoplastic drugs in stainless steel surface. The analyzed drugs were methotrexate, paclitaxel, cyclophosphamide, 5-fluorouracil, vincristine, and oxaliplatin, a frequently prepared antineoplastic drug that has not been included among any of the published simultaneous detection methods. The established method was used to evaluate the recoveries of antineoplastic drugs on brand new and worn stainless steel surfaces by wiping the plates with a Whatman filter paper wetted with 0.5 mL of water/methanol (20:80) with 0.1%formic acid followedbyLC–MS/MS before desorbing the filter with a water/methanol (50:50) solution. A significant decrease in the recovery of all evaluated drugs was found when worn plates were used. Additionally, the inter-personnel variability on drug recoveries during wiping procedures was evaluated. Significantly higher recoveries were achieved by the personnel with more training and experience versus personnel without prior experience. Finally, a laboratory stability test was developed to assess the degradation of the antineoplastic drugs during replicated shipping conditions. With the exception of vincristine sulfate which exhibited a significant (p&amp;lt;0.05) degradation after 48 h, all evaluated drugs were stable during the first 24–48 h. However, after 144 h, an increase in the degradation of all evaluated drugs was observed, with oxaliplatin and 5- fluorouracil exhibiting the most degradation.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://Colombo-Manuel.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Colombo-Manuel.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1569 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: March 9, 2024 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.4ae2d64afe0c5f869dcd5806742955de.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+  <meta name="google-site-verification" content="google80c6ef832818631d.html" />
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GF0ZM5SX50"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-GF0ZM5SX50', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Manuel Colombo" />
+
+
+
+
+
+  
+
+<meta name="description" content="" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://Colombo-Manuel.github.io/opportunities/" />
+<link rel="canonical" href="https://Colombo-Manuel.github.io/opportunities/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#3f51b5" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="B.A.B. Lab" />
+<meta property="og:url" content="https://Colombo-Manuel.github.io/opportunities/" />
+<meta property="og:title" content="Opportunities | B.A.B. Lab" />
+<meta property="og:description" content="" /><meta property="og:image" content="https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2023-06-01T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2023-06-01T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Opportunities | B.A.B. Lab</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="493957a9aa87e48f55f90c418672b71e" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.cfbcdacc11f8c6cef53d604d1b3ac748.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">B.A.B. Lab</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">B.A.B. Lab</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/research"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publicationsb"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>Lab Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/opportunities"><span>Opportunities</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+<span class="js-widget-page d-none"></span>
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+      
+    
+    
+  
+  
+    
+    
+  
+  
+    
+    
+  
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-markdown" class="home-section wg-markdown  fullscreen" style="padding: 25px 25px 45px 25px;" >
+ <div class="home-section-bg  bg-image parallax" style="background-image: linear-gradient(90deg, 	white, 	white);background-image: url(&#39;https://Colombo-Manuel.github.io/media/OPP2_hu9fa69890d4cfd3fe069765aeb1f792ac_3452854_1920x1920_fit_q75_h2_lanczos_3.webp&#39;);background-size: cover;background-position: center;filter: brightness(1);">
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0"><strong>Join Us</strong></h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-markdown" class="home-section wg-markdown  fullscreen" style="padding: 20px 25px 20px 25px;" >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0"><strong>Join Us</strong></h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <p style="color: black">I am always enthusiastic about working with creative, interdisciplinary and self‑motivated students and postdoctoral fellows who are passionate about geoscience and nature at large. Given the diverse research topics studied in the B.A.B. Lab, there is always room for interesting collaborations! Having a diverse, inclusive and welcoming Lab is something I strive for, and hence, I encourage underrepresented students and postdocs within Geosciences from the USA and abroad to contact me. If you are a motivated student / researcher with a strong science background, please do <a href="https://Colombo-Manuel.github.io/contact/">contact me</a> to explore potential collaborations! <em>Please, include your CV and a brief description of your interests and their relationship with the <a href="https://Colombo-Manuel.github.io/research/">research</a> done at the B.A.B. Lab</em>.</p>
+<p style="color: darkblue">When funding is available, I will be actively recruiting MSc and Ph.D. students and postdoctoral researchers (<a href="https://Colombo-Manuel.github.io/opportunities/#curropp">Current Opportunities</a>), however, I strongly encourage those students and postdoctoral researcher who want to apply for external fellowships to discuss with me potential projects in advance. <a href="https://Colombo-Manuel.github.io/opportunities/#info">See below</a> for information about fellowships.</p>
+<style>body {text-align: justify}</style>
+<hr>
+<br>
+<p>The <a href="https://www.vims.edu/index.php" target="_blank" rel="noopener">Virginia Institute of Marine Science</a>, located in the beautiful Chesapeake Bay, and <a href="https://www.wm.edu/" target="_blank" rel="noopener">William &amp; Mary University</a> are great places for those looking for a high quality education and research opportunities in the realms of Ocean, Coastal and Estuarine Science. Prospective MSc and Ph.D. students please check out the School of Marine Science  <a href="https://www.vims.edu/education/graduate/index.php" target="_blank" rel="noopener">(SMS)</a>, <a href="https://catalog.wm.edu/content.php?catoid=27&amp;navoid=4248" target="_blank" rel="noopener">SMS: Academic &amp; General Policies</a> and this <a href="https://www.vims.edu/education/graduate/admissions/index_off-season.php" target="_blank" rel="noopener">Link</a> to get more information about the graduate programs, admission and timeline.</p>
+<style>body {text-align: justify}</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="" srcset="
+               /opportunities/OPP1_huc75d1b59ce883369c6e655444f5eae90_6922193_b38afe368b6a6ceadf0fa486f53dfcee.webp 400w,
+               /opportunities/OPP1_huc75d1b59ce883369c6e655444f5eae90_6922193_7469c60bccf211618b7003f8b6e49e37.webp 760w,
+               /opportunities/OPP1_huc75d1b59ce883369c6e655444f5eae90_6922193_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/opportunities/OPP1_huc75d1b59ce883369c6e655444f5eae90_6922193_b38afe368b6a6ceadf0fa486f53dfcee.webp"
+               width="1200"
+               height="1200"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="curropp" class="home-section wg-markdown  " style="padding: 20px 25px 30px 25px;" >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0"><strong>Current Funded Opportunities</strong></h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <h2 id="__1-iron-and-manganese-oxide-nature-and-bound-oc-abundances-in-the-amazon-shelf-the-effect-of-reductive-dissolution-and-oxidative-processes-on-oc-stability__" style="color: darkblue"><strong>[1] Iron and manganese oxide nature and bound-OC abundances in the Amazon Shelf: the effect of reductive dissolution and oxidative processes on OC stability</strong></h2>
+<p>Mineral protection (e.g., clays) of organic carbon (OC) has been widely recognize as a significant factor controlling its stabilization, and thus, OC degradation rate and burial efficiency. Recent studies have been focusing on the OC “protective” effect of iron, and to a lesser extent manganese, minerals on OC stability. In this project, we will be investigating how the complex redox chemistry of Fe and Mn oxides influence OC cycling in the Amazon River/Shelf system, the largest river basin on Earth.<br>
+<br></p>
+<p><strong>The B.A.B. Lab is seeking a M.Sc. or Ph.D. student(s) interested in conducting research at the Virginia Institute of Marine Science (VIMS) and William &amp; Mary, starting in Fall 2024.</strong> The successful candidate will work primarily in the &ldquo;Amazon&rdquo; research project, studying how iron (Fe) and manganese (Mn) oxides influence organic carbon (OC) preservation in the Amazon River and adjacent shelf environment. This work will include the analysis of trace element speciation and Mn and Fe-bounded OC in multiple sediment cores, suspended sediments and porewater samples collected from the low Amazon basin to the Suriname continental shelf following the northward spreading of Amazon mudbanks along the shelf. The prospective student will be working in the brand new B.A.B. Lab facility, integrating innovative sample processing and analytical strategies for both TEs and OC as well as other biomarkers. This project is framed within the larger MUDBENCS Amazon Project lead by <a href="https://www.usf.edu/marine-science/faculty/faculty-directory/geological-oceanography/brad-rosenheim.aspx" target="_blank" rel="noopener">Brad Rosenheim (University of South Florida)</a> and <a href="https://www2.whoi.edu/staff/vgaly/" target="_blank" rel="noopener">Valier Galy (Woods Hole Oceanographic Institution)</a>, with whom we will be closely collaborating.</p>
+<p><strong>The position is funded for a minimum of 2.5 / 5 years (M.Sc. / Ph.D.) including a 12-month stipend, tuition waiver and health insurance.</strong></p>
+<h3 id="qualifications" style="color: darkblue">Qualifications:</h3>
+
+
+<mark><em>The student should be highly self-motivated, curious, detail-oriented and have very good writing and verbal communication skills, as well as the ability to work independently and collaboratively.</em></mark>
+<p><strong>The position requires a bachelor’s or master’s degree in oceanography, chemistry, biology, environmental science, engineering, or a related field.</strong> Given the strong laboratory component of the project, having experience working in a lab environment and processing samples (e.g., sediments, water, suspended matter, biological tissues, etc.) is beneficial.  Programming skills (e.g., <strong>Python</strong>, R, MATLAB) and some knowledge of analytical chemistry are desirable, but most importantly is being eager to learn.</p>
+<h3 id="application" style="color: darkblue">Application:</h3>
+<p>If interested, please <a href="https://Colombo-Manuel.github.io/contact/">contact me</a> as soon as possible to go over the M.Sc. and Ph.D. programs at VIMS and W&amp;M, the timeline and the research topic. Please include in your email (<em>subject line “Prospective student”</em>) your CV, unofficial transcripts, and a cover letter stating your research interests and how those align with the &ldquo;<strong>Amazon River project</strong>&rdquo; specifically, and the lab at large.
+For information about the School of Marine Science (SMS) graduate programs at VIMS and W&amp;M, application materials and deadlines, please take a look to the following pages: <a href="https://www.vims.edu/education/graduate/index.php" target="_blank" rel="noopener">SMS</a>, <a href="https://catalog.wm.edu/content.php?catoid=27&amp;navoid=4248" target="_blank" rel="noopener">SMS: Academic &amp; General Policies</a> and this <a href="https://www.vims.edu/education/graduate/admissions/index_off-season.php" target="_blank" rel="noopener">Link</a></p>
+<h3 id="about-the-virginia-institute-of-marine-science" style="color: darkblue">About The Virginia Institute of Marine Science:</h3>
+<p>Chartered in 1940, the <a href="https://www.vims.edu/index.php" target="_blank" rel="noopener">Virginia Institute of Marine Science (VIMS)</a> is currently among the largest marine research and education centers in the United States. VIMS has a three-part mission to conduct interdisciplinary research in coastal ocean and estuarine science, educate students and citizens, and provide advisory service to policy makers, industry, and the public. The School of Marine Science (SMS; M.A., M.S., and Ph.D. degrees) at VIMS is the graduate school in marine science for William &amp; Mary, the second oldest university in the United States. Graduate students have an unparalleled opportunity to conduct research within the three VIMS academic sections (Coastal &amp; Ocean Processes, Ecosystem Health, and Natural Resources), extending from inland watersheds to the open ocean. VIMS currently employs more than 500 faculty, staff and students at three different campuses; with a graduate student body of approximately 90-100 at any given year, the faculty-to-student ratio in the School of Marine Science allows for a small and dedicated class size, at an average of 7-10 students per class.</p>
+
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="info" class="home-section wg-markdown  fullscreen" style="padding: 20px 25px 20px 25px;" >
+ <div class="home-section-bg  bg-image" style="filter: brightness(1);">
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0"><strong>Scholarship and Fellowship Information for Prospective Students and Postdocs</strong></h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <p style="color: darkblue"><em>Regardless of whether you are planning to apply for undergraduate or postdoctoral scholarships, the sooner you contact me to discuss potential projects and steps to follow the better! Please allow yourself at least a three month period before the deadline to contact me and work on your application.</em></p>
+<p>Below you will find some scholarships and fellowships targeted from undergraduate students to postdoctoral researcher (US citizens and foreigners). However, there are many other private and state sponsored fellowships that are not included in this list.</p>
+<h3 id="undergraduate-students" style="color: darkblue">Undergraduate Students:</h3>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.vims.edu/education/college/summer_intern/about/index.php" target="_blank" rel="noopener">VIMS REU Program</a></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.noaa.gov/office-education/hollings-scholarship" target="_blank" rel="noopener">NOAA - Ernest F. Hollings Undergraduate Scholarship</a>  – <em><strong>U.S. citizens and/or Permanent Residents</strong></em>
+<br></li>
+</ul>
+<h3 id="graduate-students" style="color: darkblue">Graduate Students:</h3>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp" target="_blank" rel="noopener">NSF Graduate Research Fellowship Program</a> – <em><strong>U.S. citizens and/or Permanent Residents</strong></em></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.quadfellowship.org/" target="_blank" rel="noopener">Quad Fellowship</a> – <em><strong>Citizens or legal permanent residents of Australia, India, Japan, or the United States</strong></em></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://us.fulbrightonline.org/" target="_blank" rel="noopener">Fulbright U.S. Student Program</a> – Plase visit the Fulbright division from your own country; for example <a href="https://www.fulbright.org.au/scholarships/" target="_blank" rel="noopener">Fulbright Australia</a>, <a href="https://comexus.org.mx/" target="_blank" rel="noopener">Fulbright Mexico</a>, <a href="https://www.fulbright.cl/" target="_blank" rel="noopener">Fulbright Chile</a>, <a href="http://fulbright.edu.ar/" target="_blank" rel="noopener">Fulbright Argentina</a>, etc.</li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.fftf.slb.com/" target="_blank" rel="noopener">Schlumberger Foundation Faculty for the Future Program</a> - <em><strong>Women from developing countries pursuing PhD and postdoctoral research STEM disciplines.</strong></em>
+<br></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://vaseagrant.org/graduate-fellowships" target="_blank" rel="noopener">Virginia Sea Grant Graduate Fellowships</a> - <em><strong>Open to full-time graduate students at any Virginia academic institution who are engaged in coastal and marine research relevant to Virginia and the Virginia Sea Grant strategic plan</strong></em></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.pdsoros.org/" target="_blank" rel="noopener">The Paul &amp; Daisy Soros Fellowships for New Americans</a> - <em><strong>Immigrants and children of immigrants to the United States; up to $90,000 in financial support over two years in any field and in any advanced degree-granting program in the United States.</strong></em>
+<br></li>
+</ul>
+<h3 id="postdoctoral-researchers" style="color: darkblue">Postdoctoral Researchers:</h3>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.vims.edu/research/units/programs/post_doc/raise/" target="_blank" rel="noopener">VIMS RAISE Post-Doctoral Fellowship Program</a> – <strong>U.S. citizens, permanent residents and foreign citizens are eligible to apply</strong> <a href="RAISE_2023.pdf">RAISE 2023 application Ad</a></li>
+<li><input checked="" disabled="" type="checkbox"> Various <a href="https://new.nsf.gov/funding/opportunities?f%5b0%5d=student_educator_eligibility:postdoc" target="_blank" rel="noopener">NSF Postdoctoral Research Fellowships</a> – <em><strong>U.S. citizens or Permanent Residents</strong></em></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp" target="_blank" rel="noopener">NSERC Postdoctoral Fellowship Program</a> - <em><strong>Canadian citizens or permanent residents who completed their Ph.D. at a Canadian Institutions</strong></em></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://banting.fellowships-bourses.gc.ca/en/home-accueil.html" target="_blank" rel="noopener">Banting Postdoctoral Fellowships</a> - <em><strong>Canadian citizens or permanent residents who completed their Ph.D. at a Canadian Institutions</strong></em></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://agi.org/geobiology/fellowships/" target="_blank" rel="noopener">Agouron Institute Geobiology Fellowship</a></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://brancoweissfellowship.org/" target="_blank" rel="noopener">The Branco Weiss Fellowship</a></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.nationalacademies.org/our-work/ford-foundation-fellowships" target="_blank" rel="noopener">The Ford Foundation Fellowships</a></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.fftf.slb.com/" target="_blank" rel="noopener">Schlumberger Foundation Faculty for the Future Program</a> - <em><strong>Women from developing countries pursuing PhD and postdoctoral research STEM disciplines.</strong></em></li>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://www.loreal.com/en/usa/pages/group/fwis/" target="_blank" rel="noopener">The L’Oréal USA For Women in Science fellowship program</a> - <em><strong>U.S. citizens or Permanent Residents</strong></em>
+<br></li>
+</ul>
+<h3 id="other-interesting-links" style="color: darkblue">Other Interesting Links:</h3>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> <a href="https://apps.grad.illinois.edu/fellowship-finder" target="_blank" rel="noopener">Fellowship Finder</a> – <em><strong>The Illinois Database of Grants and Fellowships for Graduate Students</strong></em></li>
+</ul>
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2024 Manuel Colombo. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.b2240102cb8b24bcbe037562ce2ea60a.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

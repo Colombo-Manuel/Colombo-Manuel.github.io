@@ -1,0 +1,3978 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: March 9, 2024 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.4ae2d64afe0c5f869dcd5806742955de.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+  <meta name="google-site-verification" content="google80c6ef832818631d.html" />
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GF0ZM5SX50"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-GF0ZM5SX50', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Manuel Colombo" />
+
+
+
+
+
+  
+
+<meta name="description" content="" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://Colombo-Manuel.github.io/publicationsb/" />
+<link rel="canonical" href="https://Colombo-Manuel.github.io/publicationsb/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#3f51b5" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="B.A.B. Lab" />
+<meta property="og:url" content="https://Colombo-Manuel.github.io/publicationsb/" />
+<meta property="og:title" content="Publications | B.A.B. Lab" />
+<meta property="og:description" content="" /><meta property="og:image" content="https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2023-06-01T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2023-06-01T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Publications | B.A.B. Lab</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a3f983e27124187a56f8bf3121af0890" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.cfbcdacc11f8c6cef53d604d1b3ac748.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">B.A.B. Lab</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">B.A.B. Lab</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/research"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/publicationsb"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/teaching"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>Lab Team</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/opportunities"><span>Opportunities</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+<span class="js-widget-page d-none"></span>
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="pubsec" class="home-section wg-portfolio  " style="padding: 20px 25px 20px 25px;" >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0"><strong>Publications</strong></h1>
+          <p class="mt-1"><p style="color: darkblue">Publications listed below can be filtered by subject area: Trace Elements (TEs), Organic Carbon Geochemistry (OC), Rivers &amp; Estuaries, Coastal &amp; Ocean, Environmental Chemistry (Envir. Chem.) and Environmental Health (Envir. Health)</p>
+</p>
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 ">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    <span class="d-none default-project-filter">*</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar d-flex justify-content-center">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-tes" class="btn btn-primary btn-lg">TEs</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-oc" class="btn btn-primary btn-lg">OC</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-rivers" class="btn btn-primary btn-lg">Rivers &amp; Estuaries</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-coastal" class="btn btn-primary btn-lg">Coastal &amp; Ocean</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-envirchem" class="btn btn-primary btn-lg">Envir. Chem.</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-envirhealth" class="btn btn-primary btn-lg">Envir. Health</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container row js-layout-row ">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+    
+    
+      
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/lo_2023/" >Control of particulate manganese (Mn) cycling in halocline Arctic Ocean waters by putative Mn-oxidizing bacterial dynamics
+</a>
+    </div>
+
+    
+    <a href="/publications/lo_2023/"  class="summary-link">
+      <div class="article-style">
+        <strong>Colombo M.</strong>, LaRoche J., Desai D., Li J. and Maldonado M.T. (2023) <em>Limnology and
+Oceanography 68 (9), 2070-2087</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12407#pane-pcw-references" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/lo_2023/LO2023.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/jgrb_2023/" >Continental and Glacial Runoff Fingerprints in the Canadian Arctic Archipelago, the Inuit Nunangat Ocean
+</a>
+    </div>
+
+    
+    <a href="/publications/jgrb_2023/"  class="summary-link">
+      <div class="article-style">
+        Rogalla B., Allen S.E., <strong>Colombo M.</strong>, Myers P.G. and Orians K.J. (2023) <em>Journal of Geophysical Research: Biogeosciences 128 (5), 1-22</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JG007072" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/jgrb_2023/JGRB2023.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-envirhealth">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/jopp_2023/" >Initial assessment of multi-compound antineoplastic drug surface contamination in Argentinean healthcare centers: Insights into occupational exposures in South America
+</a>
+    </div>
+
+    
+    <a href="/publications/jopp_2023/"  class="summary-link">
+      <div class="article-style">
+        Speranza E.D., Jeronimo M. and <strong>Colombo M.</strong> (2023) <em>Journal of Oncology Pharmacy Practice 2023;0(0)</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://journals.sagepub.com/doi/10.1177/10781552231188320" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes js-id-oc">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/gca_2022/" >Particulate trace element distributions along the Canadian Arctic GEOTRACES section: shelf-water interactions, advective transport and contrasting biological production
+</a>
+    </div>
+
+    
+    <a href="/publications/gca_2022/"  class="summary-link">
+      <div class="article-style">
+        <strong>Colombo M.</strong>, Li J., Rogalla B., Allen S.E. and Maldonado M.T. (2022) <em>Geochimica et Cosmochimica Acta 323, 183-201</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0016703722000783?via%3Dihub" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/gca_2022/GCA2022.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Pre-print PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/gbc_2022b/" >Sediments in Sea Ice Drive the Canada Basin Surface Mn Maximum: Insights From an Arctic Mn Ocean Model
+</a>
+    </div>
+
+    
+    <a href="/publications/gbc_2022b/"  class="summary-link">
+      <div class="article-style">
+        Rogalla B., Allen S.E., <strong>Colombo M.</strong>, Myers P.G. and Orians K.J. (2022) <em>Global Biogeochemical Cycles 36 (8), 1-27</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GB007320" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/gbc_2022/" >Arctic – Atlantic Exchange of the Dissolved Micronutrients Iron, Manganese, Cobalt, Nickel, Copper and Zinc With a Focus on Fram Strait
+</a>
+    </div>
+
+    
+    <a href="/publications/gbc_2022/"  class="summary-link">
+      <div class="article-style">
+        Krisch S., Hopwood M.J., Roig S., Gerringa L.J.A., Middag R., Rutgers van der Loeff M., Petrova M.V., Lodeiro P., <strong>Colombo M.</strong>, Cullen J.T., Jackson S. and Achterberg E.P. (2022) <em>Global Biogeochemical Cycles 36 (5), 1-23</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GB007191" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/gbc_2022/GBC2022.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-rivers js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/epsl_2022/" >Controlling factors and impacts of river-borne neodymium isotope signatures and rare earth element concentrations supplied to the Canadian Arctic Archipelago
+</a>
+    </div>
+
+    
+    <a href="/publications/epsl_2022/"  class="summary-link">
+      <div class="article-style">
+        Grenier M., Brown K.A., <strong>Colombo M.</strong>, Belhadj M., Baconnais I., Pham V., Soon M., Myers P.G., Jeandel C. and François R. (2022) <em>Earth and Planetary Science Letters 578, 1-12</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0012821X21005975?via%3Dihub" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/epsl_2022/EPSL2022.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/gbc_2021/" >Canadian Arctic Archipelago Shelf‐Ocean Interactions: A Major Iron Source to Pacific Derived Waters Transiting to the Atlantic
+</a>
+    </div>
+
+    
+    <a href="/publications/gbc_2021/"  class="summary-link">
+      <div class="article-style">
+        <strong>Colombo M.</strong>, Rogalla B., Li J., Allen S.E., Orians K.J. and Maldonado M.T. (2021) <em>Global Biogeochemical Cycles 35 (10), 1-17</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GB007058" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/gbc_2021/GBC2021.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Pre-print PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/pnas_2021/" >Anthropogenic lead pervasive in Canadian Arctic seawater
+</a>
+    </div>
+
+    
+    <a href="/publications/pnas_2021/"  class="summary-link">
+      <div class="article-style">
+        De Vera J., Chandan P., Pinedo Gonzales P., John S., Jackson S.L., Cullen J.T., <strong>Colombo M.</strong>, Orians K.J. and Bergquist B.A. (2021) <em>Proceedings of the National Academy of Sciences 118 (24), 1-6</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.pnas.org/doi/full/10.1073/pnas.2100023118" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/pnas_2021/PNAS2021.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-envirhealth">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/joeh_2020/" >The application of novel field measurement and field evaluation protocols for assessing health care workers’ exposure risk to antineoplastic drugs</a>
+    </div>
+
+    
+    <a href="/publications/joeh_2020/"  class="summary-link">
+      <div class="article-style">
+        Astrakianakis G., Jeronimo M., Griffiths A., <strong>Colombo M.</strong>, Kramer D., Demers P.A. and Hon C.Y.(2020) <em>Journal of Occupational and Environmental Hygiene 17 (9), 373-382</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.tandfonline.com/doi/abs/10.1080/15459624.2020.1777296?journalCode=uoeh20" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/gca_2020/" >Dissolved iron and manganese in the Canadian Arctic Ocean: on the biogeochemical processes controlling their distributions
+</a>
+    </div>
+
+    
+    <a href="/publications/gca_2020/"  class="summary-link">
+      <div class="article-style">
+        <strong>Colombo M.</strong>, Jackson S.L., Cullen J.T. and Orians K.J. (2020) <em>Geochimica et Cosmochimica Acta 277, 150-174</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0016703720301836?via%3Dihub" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/gca_2020/GCA2020.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Pre-print PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-rivers js-id-oc js-id-envirchem">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/er_2020/" >Alterations in the sterol signature of detritivorous fish along pollution gradients in the Río de la Plata basin (Argentina): From plant to sewage-based diet
+</a>
+    </div>
+
+    
+    <a href="/publications/er_2020/"  class="summary-link">
+      <div class="article-style">
+        Speranza E.D., <strong>Colombo M.</strong>, Heguilor S., Tatone L.M. and Colombo J.C. (2020) <em>Environmental Research 184, 109351</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/abs/pii/S0013935120302449?via%3Dihub" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-rivers js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/cg_2019/" >Trace metal geochemistry of remote rivers in the Canadian Arctic Archipelago
+</a>
+    </div>
+
+    
+    <a href="/publications/cg_2019/"  class="summary-link">
+      <div class="article-style">
+        <strong>Colombo M.</strong>, Brown K.A., De Vera J., Bergquist B.A. and Orians K.J. (2019) <em>ACS Earth and Space Chemistry 3 (7), 1302-1314</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0009254119303742?via%3Dihub" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/cg_2019/CG2019.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Pre-print PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-coastal js-id-tes">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/acsesp_2019/" >Tracing Dissolved Lead Sources in the Canadian Arctic: Insights from the Canadian GEOTRACES Program
+</a>
+    </div>
+
+    
+    <a href="/publications/acsesp_2019/"  class="summary-link">
+      <div class="article-style">
+        <strong>Colombo M.</strong>, Rogalla B., Myers P.G., Allen S.E. and Orians K.J. (2019) <em>ACS Earth and Space Chemistry 3 (7), 1302-1314</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.acs.org/doi/10.1021/acsearthspacechem.9b00083" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/acsesp_2019/ACSEPS2019.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-envirchem js-id-oc js-id-rivers">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/og_2018/" >Early diagenetic alterations of sterol biomarkers during particle settling and burial in polluted and pristine areas of the Rio de la Plata Basin</a>
+    </div>
+
+    
+    <a href="/publications/og_2018/"  class="summary-link">
+      <div class="article-style">
+        Speranza E.D., <strong>Colombo M.</strong>, Skorupka C. N. and Colombo J. C. (2018) <em>Organic Geochemistry 117, 1–11</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0146638017304230?via%3Dihub" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-envirhealth">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/aweh_2017/" >Wipe Sampling Method and Evaluation of Environmental Variables for Assessing Surface Contamination of 10 Antineoplastic Drugs by Liquid Chromatography/Tandem Mass Spectrometry</a>
+    </div>
+
+    
+    <a href="/publications/aweh_2017/"  class="summary-link">
+      <div class="article-style">
+        <strong>Colombo M.</strong>, Jeronimo M., Astrakianakis G., Apte C. and Hon C.Y. (2017) <em>Annals of Work Exposures and Health 61, 1003–1014</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/annweh/article/61/8/1003/4062280" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/aweh_2017/AWEH.pdf" >
+    <i class="fas fa-fa-regular fa-file-pdf mr-1"></i>Pre-print PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-envirchem js-id-oc js-id-rivers">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/jfb_2016/" >Fatty acid alterations in the detritivorous Prochilodus lineatus promoted by opportunistic feeding on sewage discharges in the Río de la Plata estuary</a>
+    </div>
+
+    
+    <a href="/publications/jfb_2016/"  class="summary-link">
+      <div class="article-style">
+        Speranza E.D., <strong>Colombo M.</strong>, Tatone L.M., Cappelletti N., Migoya M.C. and Colombo J.C. (2016) <em>Journal of Fish Biology 89, 2024–2037</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/10.1111/jfb.13104" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-envirchem">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/wer_2016/" >Removal and Re-use of Tar-contaminated Sediment by Freeze-dredging at a Coking Plant Luleå, Sweden</a>
+    </div>
+
+    
+    <a href="/publications/wer_2016/"  class="summary-link">
+      <div class="article-style">
+        Rostmark S.C., <strong>Colombo M.</strong>, Knutsson S. and Öberg G. (2016) <em>Water Environment Research 88, 847–851</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/abs/10.2175/106143015X14362865226950" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-envirhealth">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publications/abc_2015/" >A surface wipe sampling and LC–MS/MS method for the simultaneous detection of six antineoplastic drugs commonly handled by healthcare workers</a>
+    </div>
+
+    
+    <a href="/publications/abc_2015/"  class="summary-link">
+      <div class="article-style">
+        Jeronimo M., <strong>Colombo M.</strong>, Astrakianakis G. and Hon C.Y. (2015) <em>Analytical and Bioanalytical Chemistry 407, 7083–7092</em>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://link.springer.com/article/10.1007/s00216-015-8868-y" target="_blank" rel="noopener">
+    <i class="fas fa-fa-solid fa-link mr-1"></i>Journal</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="mailto:mcolombo@vims.edu" >
+    <i class="fas fa-envelope mr-1"></i>Request Publication PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+
+  </div>
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2024 Manuel Colombo. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.b2240102cb8b24bcbe037562ce2ea60a.js"></script>
+
+
+
+
+  
+    <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
