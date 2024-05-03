@@ -10,12 +10,16 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Colombo-Manuel.github.io/post/</loc>
+    <loc>https://Colombo-Manuel.github.io/oldpost/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Colombo-Manuel.github.io/post/new_positionsflyer/</loc>
+    <loc>https://Colombo-Manuel.github.io/oldpost/new_positionsflyer/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/post/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/post/new_paper_lo/</loc>
@@ -154,26 +158,6 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Colombo-Manuel.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/publication-type/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://Colombo-Manuel.github.io/publications/cg_2019/</loc>
     <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -198,41 +182,23 @@
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Colombo-Manuel.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/publication-type/article-journal/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/authors/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://Colombo-Manuel.github.io/publications/abc_2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Colombo-Manuel.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://Colombo-Manuel.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/author/manuel-colombo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/author/someone-xy/</loc>

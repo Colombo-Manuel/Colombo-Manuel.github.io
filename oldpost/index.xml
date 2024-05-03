@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B.A.B. Lab</title>
+    <link>https://Colombo-Manuel.github.io/oldpost/</link>
+      <atom:link href="https://Colombo-Manuel.github.io/oldpost/index.xml" rel="self" type="application/rss+xml" />
+    <description>B.A.B. Lab</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png</url>
+      <title>B.A.B. Lab</title>
+      <link>https://Colombo-Manuel.github.io/oldpost/</link>
+    </image>
+    
+    <item>
+      <title>Opportunities for Grad Students!</title>
+      <link>https://Colombo-Manuel.github.io/oldpost/new_positionsflyer/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/oldpost/new_positionsflyer/</guid>
+      <description>&lt;p&gt;Are you interested in linking organic geochemistry and trace element analysis? Do you want to study the effect of iron and manganese oxides on organic carbon preservation in the world largest freshwater system? If so, follow this &lt;a href=&#34;https://Colombo-Manuel.github.io/opportunities/#curropp&#34;&gt;link!&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
