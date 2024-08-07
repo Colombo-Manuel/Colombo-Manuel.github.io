@@ -10,6 +10,22 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://Colombo-Manuel.github.io/projects/labrador_coastal_current/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/projects/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/projects/amazon/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/projects/rlp/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://Colombo-Manuel.github.io/tag/coastal/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -197,6 +213,9 @@
     <loc>https://Colombo-Manuel.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://Colombo-Manuel.github.io/author/athira-chakkalaparambil-rajendran/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://Colombo-Manuel.github.io/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -215,16 +234,13 @@
     <loc>https://Colombo-Manuel.github.io/author/someone1-xy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Colombo-Manuel.github.io/author/someone2-xy/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/author/someone3-xy/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://Colombo-Manuel.github.io/author/someone4-xy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/author/someone5-xy/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/author/victoria-grisson/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
