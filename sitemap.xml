@@ -11,7 +11,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/post/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/post/new_paper_jgro/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/tag/coastal/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/publications/jgroceans_2025/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/publications/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/tags/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://Colombo-Manuel.github.io/tag/tes/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/post/welcome_vg_acr/</loc>
@@ -34,23 +58,7 @@
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://Colombo-Manuel.github.io/tag/coastal/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/publications/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://Colombo-Manuel.github.io/publications/ocy_2024/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/tags/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/tag/tes/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -229,6 +237,9 @@
     <loc>https://Colombo-Manuel.github.io/author/manuel-colombo/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://Colombo-Manuel.github.io/author/nicolas-goodman/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://Colombo-Manuel.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -239,9 +250,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/author/someone4-xy/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://Colombo-Manuel.github.io/author/someone5-xy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://Colombo-Manuel.github.io/author/victoria-grisson/</loc>

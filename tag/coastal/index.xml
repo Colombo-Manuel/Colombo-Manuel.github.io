@@ -5,12 +5,25 @@
     <link>https://Colombo-Manuel.github.io/tag/coastal/</link>
       <atom:link href="https://Colombo-Manuel.github.io/tag/coastal/index.xml" rel="self" type="application/rss+xml" />
     <description>Coastal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png</url>
       <title>Coastal</title>
       <link>https://Colombo-Manuel.github.io/tag/coastal/</link>
     </image>
+    
+    <item>
+      <title>Modeling Dissolved Pb Concentrations in the Western Arctic Ocean: The Continued Legacy of Anthropogenic Pollution
+</title>
+      <link>https://Colombo-Manuel.github.io/publications/jgroceans_2025/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/publications/jgroceans_2025/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;img src=&#34;JGRO2025.jpg&#34; width=&#34;900px&#34; max-height= auto border=&#34;10&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Over the past decade, the international GEOTRACES program has greatly expanded the coverage of dissolved lead (dPb) observations in the western Arctic Ocean including the Canada Basin and the Canadian Arctic Archipelago. However, it is difficult to quantify the drivers of the spatial distribution and seasonal variability of dPb concentrations using observations alone. Here, we present a three-dimensional model of dPb concentrations in the western Arctic Ocean with experiments from 2002 to 2021 to assess our current understanding of dPb cycling. The dPb model illustrates the impact of current and historical anthropogenic pollution on dPb concentrations in the Arctic Ocean, which accounts for at least 28% of dPb addition to the region, through aerosol deposition and net transport from other ocean basins. Advected water masses from the Pacific and North Atlantic Oceans convey elevated pollution-derived dPb concentrations to the Arctic and play a key role, contributing 43% to the annual dPb budget. The Labrador Sea is a net source of dPb to Baffin Bay via the West Greenland Current. Within Baffin Bay, simulated dPb concentrations track the seasonal extension of warm Atlantic Water along the West Greenland shelf and occasional dense overflows of Atlantic Water into the deep Baffin Bay interior. While dPb concentrations in the western Arctic Ocean are low, the dPb model simulations presented here show that anthropogenic pollution continues to impact the Pb budget in this region, consistent with recent observational work, and demonstrate the use of dPb as a tracer of Atlantic and Pacific Water masses.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
     
     <item>
       <title>Shelf-basin connectivity drives dissolved Fe and Mn distributions in the western Arctic Ocean: A synoptic view into polar trace metal cycling

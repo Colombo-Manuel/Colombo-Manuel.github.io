@@ -5,12 +5,28 @@
     <link>https://Colombo-Manuel.github.io/post/</link>
       <atom:link href="https://Colombo-Manuel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://Colombo-Manuel.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New Paper Out!</title>
+      <link>https://Colombo-Manuel.github.io/post/new_paper_jgro/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/post/new_paper_jgro/</guid>
+      <description>&lt;p&gt;&amp;#x1f389;&amp;#x1f389;The new paper, lead by collaborator &lt;a href=&#34;https://www.bas.ac.uk/profile/birgal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Birgit Rogalla&lt;/a&gt;, &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JC022415&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Modeling Dissolved Pb Concentrations in the Western Arctic Ocean: The Continued Legacy of Anthropogenic Pollution”&lt;/a&gt; has been published. This study presents a quantification of the controls on ocean dissolved Pb (dPb) concentrations in the isolated western Arctic Ocean with a novel three-dimensional dPb model and highlights the use of dPb to trace extension pathways of warm Atlantic Water into Baffin Bay.&lt;/p&gt;
+&lt;p&gt;While atmospheric Pb pollution was strongest in the late 20th century and has subsequently reduced, ocean dPb concentrations remain elevated due to their long residence time, particularly in the intermediate and deep ocean. However, in some regions, concentrations are returning to near natural levels, raising the question, to what extent is current Pb cycling impacted by human pollution?
+We use the model to quantify a budget of dPb in theWestern Arctic Ocean to evaluate the current understanding of Pb cycling and identify:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong impacts from both current and historical anthropogenic pollution on dPb concentrations in the Western Arctic Ocean&lt;/li&gt;
+&lt;li&gt;The critical role of advected water masses from the Pacifc and North Atlantic Oceans in transporting elevated pollution-derived dPb concentrations to the western Arctic Ocean&lt;/li&gt;
+&lt;li&gt;The Labrador Sea&amp;rsquo;s function as a net source of dPb to Baffin Bay via the West Greenland Current, and the tracking of seasonal extensions of warm Atlantic Water along the West Greenland Shelf and occasional dense overflows into the deep Baffin Bay interior using dPb&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
     
     <item>
       <title>Welcome!</title>
