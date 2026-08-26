@@ -5,12 +5,22 @@
     <link>https://Colombo-Manuel.github.io/post/</link>
       <atom:link href="https://Colombo-Manuel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Colombo-Manuel.github.io/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://Colombo-Manuel.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New Paper Out!</title>
+      <link>https://Colombo-Manuel.github.io/post/new_paper_csr2025/</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://Colombo-Manuel.github.io/post/new_paper_csr2025/</guid>
+      <description>&lt;p&gt;&amp;#x1f389;&amp;#x1f389;The new paper, lead by collaborator &lt;a href=&#34;https://www.researchgate.net/profile/Julia-Abrao-Teixeira&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Teixeira&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0278434325002274&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Distribution and fate of microplastics from the Chesapeake Bay to the Mid-Atlantic Bight: A Lagrangian particle tracking approach”&lt;/a&gt; has been published. This study presents a Lagrangian particle‑tracking model that shows how biofouling dramatically expands the transport, sinking, and residence time of microplastics exported from Chesapeake Bay across the Mid‑Atlantic Bight.&lt;/p&gt;
+&lt;p&gt;This study uses an advanced ocean circulation model to show how microplastics leaving the Chesapeake Bay travel throughout the Mid‑Atlantic coastal ocean. The research demonstrates that once tiny plastic fragments become coated with microbial growth, they sink, move differently, and remain in the region for longer periods of time. As a result, these particles can spread northward to the Gulf of Maine, enter nearby estuaries such as Delaware Bay and the Hudson River, or wash ashore along the Virginia and North Carolina coasts. The findings highlight that biofouling significantly alters microplastic pathways and underscores the need for coordinated regional monitoring and management to address the growing issue of plastic pollution.&lt;/p&gt;
+&lt;style&gt;body {text-align: justify}&lt;/style&gt;</description>
+    </item>
     
     <item>
       <title>B.A.B. Lab in the news!</title>
