@@ -17,7 +17,7 @@
       <link>https://Colombo-Manuel.github.io/services/irms/ea-irms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Colombo-Manuel.github.io/services/irms/ea-irms/</guid>
-      <description>&lt;p&gt;Our Elemental Analyzer-IRMS (Costech ECS 4010 CHNS-O &amp;amp; DeltaV IRMS) is optimized for stable carbon and nitrogen isotopic analyses (δ¹³C and δ¹⁵N) in solid matrices. We also perform %OC and %N analysis. Services include C &amp;amp; N in solids, tinning, acid fumigation, and difficult sample processing.&lt;/p&gt;
+      <description>&lt;p&gt;Our Elemental Analyzer-IRMS (Costech ECS 4010 CHNS-O &amp;amp; DeltaV IRMS) is optimized for stable carbon and nitrogen isotopic analyses (δ¹³C and δ¹⁵N) in solid matrices. We also perform %OC (%C) and %N analysis. Services include C &amp;amp; N in solids, tinning, acid fumigation, and difficult sample processing. &lt;em&gt;Enriched samples are not currently accepted&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Please fill out the sample submission form&lt;/strong&gt;&lt;/p&gt;
 &lt;div style=&#34;text-align: center; margin-top: 2rem;&#34;&gt;
   &lt;a href=&#34;https://Colombo-Manuel.github.io/services/irms/ea_sampleinfo.xlsx&#34; style=&#34;background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;&#34;&gt;Download VIMS IRMS Sample Submission form&lt;/a&gt;
@@ -62,7 +62,7 @@
     &lt;/table&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;For inquiries, please contact Dr. Amanda Timmerman.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For inquiries, please contact &lt;a href=&#34;https://www.vims.edu/about/directory/staff/timmerman-a.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Amanda Timmerman&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;style&gt;
   /* Layout Container */
   .layout-wrapper {
@@ -143,7 +143,7 @@
 &lt;div class=&#34;layout-wrapper&#34;&gt;
   &lt;!-- Left side: The Picture --&gt;
   &lt;div class=&#34;image-container&#34;&gt;
-    &lt;img src=&#34;https://Colombo-Manuel.github.io/services/irms/ea.png&#34; alt=&#34;EA-IRMS Setup&#34;&gt;
+    &lt;img src=&#34;https://Colombo-Manuel.github.io/services/irms/gb.png&#34; alt=&#34;EA-IRMS Setup&#34;&gt;
   &lt;/div&gt;
   &lt;!-- Right side: The Fancy Table --&gt;
   &lt;div class=&#34;table-container fancy-table&#34;&gt;
@@ -167,15 +167,15 @@
           &lt;td&gt;$14.75&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-          &lt;td&gt;DIC&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
-          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;DIC/DOC&lt;/td&gt;
+          &lt;td&gt;In Development&lt;/td&gt;
+          &lt;td&gt;In Development&lt;/td&gt;
         &lt;/tr&gt;
       &lt;/tbody&gt;
     &lt;/table&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;For inquiries, please contact Dr. Amanda Timmerman.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For inquiries, please contact &lt;a href=&#34;https://www.vims.edu/about/directory/staff/timmerman-a.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Amanda Timmerman&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;style&gt;
   /* Layout Container */
   .layout-wrapper {
@@ -301,7 +301,7 @@
     &lt;/table&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;For inquiries, please contact Dr. Amanda Timmerman.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For inquiries, please contact &lt;a href=&#34;https://www.vims.edu/about/directory/staff/timmerman-a.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Amanda Timmerman&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;style&gt;
   /* Layout Container */
   .layout-wrapper {
