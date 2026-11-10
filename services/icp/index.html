@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: November 9, 2026 --><html lang="en-us" >
+<!-- Last Published: November 10, 2026 --><html lang="en-us" >
 
 
 <head>
@@ -938,7 +938,6 @@
 <div style="text-align: center; margin: 2rem 0; padding: 1.5rem; background-color: #f8f9fa; border-radius: 8px; border-left: 4px solid darkblue;">
   <h3 style="color: darkblue; margin-top: 0;">VIMS TQ-ICP-MS Lab</h3>
   <p style="margin-bottom: 0.5rem; font-size: 1.1em;"><strong>Virginia Institute of Marine Science</strong></p>
-  <!-- <p style="margin-bottom: 0.2rem;"><strong>Research Scientist and Facility Manager:</strong> Dr. Amanda Timmerman</p> -->
   <p style="margin-bottom: 0;"><strong>PI:</strong> Dr. Manuel Colombo</p>
 </div>
 <p>Below are listed our capabilities and current pricing (2027).</p>
@@ -954,7 +953,7 @@
   /* This adds space to the left of the sidebar menu on desktop screens */
   @media (min-width: 768px) {
     .docs-sidebar {
-      padding-left: 1.5rem !important; /* Increase this number (e.g., 4rem or 5rem) if you want even more space */
+      padding-left: 1.5rem !important;
     }
   }
 </style>
@@ -999,11 +998,6 @@
   </div>
 </div>
 <p><em>For inquiries, please contact Dr. Manuel Colombo.</em></p>
-<!-- __Please fill out the sample submission form__
-
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="/services/irms/ea_sampleinfo.xlsx" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Download VIMS ICP-MS Sample Info file</a>
-</div> -->
 <style>
   /* Layout Container */
   .layout-wrapper {
@@ -1015,25 +1009,25 @@
   }
   
   .image-container {
-    flex: 1 1 250px; /* Allows image to scale down but sets a baseline size */
+    flex: 1 1 250px;
   }
   
   .image-container img {
     width: 100%;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    display: block; /* Removes weird bottom spacing under images */
+    display: block;
   }
 
   .table-container {
-    flex: 1.5 1 350px; /* Gives the table 1.5x more priority for screen space */
-    overflow-x: auto;  /* Safety net: adds a scrollbar if space is extremely tight */
+    flex: 1.5 1 350px;
+    overflow-x: auto;
   }
 
   /* Table Styles */
   .fancy-table table {
     width: 100%;
-    min-width: 320px; /* Prevents the table from squishing itself to death */
+    min-width: 320px;
     border-collapse: collapse;
     box-shadow: 0 4px 8px rgba(0,0,0,0.05);
     border-radius: 8px;
@@ -1060,6 +1054,15 @@
   .fancy-table tr:hover td {
     background-color: #f1f1f1;
   }
+
+  /* Hides the "Last updated" date text, feedback widget, and NEXT/PREVIOUS pager */
+  .body-footer,
+  .article-widget,
+  .page-footer,
+  .docs-navigation,
+  .pager-nav {
+    display: none !important;
+  }
 </style>
 
         </article>
@@ -1067,72 +1070,6 @@
         
 
 
-
-<style>
-  .btn-feedback {
-    display: inline-block;
-  }
-  .btn-feedback-negative {
-    margin-left: 1em;
-  }
-  .feedback--response {
-    display: none;
-    margin-top: 1em;
-  }
-  .feedback--response__visible {
-    display: block;
-  }
-</style>
-<div class="d-print-none widget--feedback">
-  <h2 class="feedback--title">Feedback</h2>
-  <p class="feedback--question">Was this page helpful?</p>
-  <p class="feedback--response feedback--response-positive">
-    🙏
-  </p>
-  <p class="feedback--response feedback--response-negative">
-    🙏
-  </p>
-  <button class="btn btn-primary mb-4 btn-feedback btn-feedback-positive">
-    😍 Yes
-  </button>
-  <button class="btn btn-primary mb-4 btn-feedback btn-feedback-negative">
-    😡 No
-  </button>
-</div>
-<script>
-  const btnYes = document.querySelector('.btn-feedback-positive');
-  const btnNo = document.querySelector('.btn-feedback-negative');
-  const responseYes = document.querySelector('.feedback--response-positive');
-  const responseNo = document.querySelector('.feedback--response-negative');
-  const disableButtons = () => {
-    btnYes.disabled = true;
-    btnNo.disabled = true;
-  };
-  const sendFeedback = (value) => {
-    if (typeof gtag !== 'function') return;
-    gtag('event', 'click', {
-      'event_category': 'page_rating',
-      'event_label': window.location.pathname,
-      'value': value,
-      'transport_type': 'beacon',
-      'event_callback': function () {
-        console.debug(`✅ Feedback sent ${value}`);
-      }
-    });
-  };
-  btnYes.addEventListener('click', () => {
-    console.debug('Feedback response: 😍');
-    responseYes.classList.add('feedback--response__visible');
-    disableButtons();
-    sendFeedback(1);
-  });
-  btnNo.addEventListener('click', () => {
-    console.debug('Feedback response: 😡');
-    responseNo.classList.add('feedback--response__visible');
-    disableButtons();
-    sendFeedback(0);
-  });
-</script>
 
 
 

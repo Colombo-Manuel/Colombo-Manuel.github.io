@@ -119,6 +119,14 @@
   .fancy-table tr:hover td {
     background-color: #f1f1f1;
   }
+  /* Hides the &#34;Last updated&#34; date text, feedback widget, and NEXT/PREVIOUS pager */
+  .body-footer,
+  .article-widget,
+  .page-footer,
+  .docs-navigation,
+  .pager-nav {
+    display: none !important;
+  }
 &lt;/style&gt;</description>
     </item>
     
@@ -155,13 +163,13 @@
         &lt;/tr&gt;
         &lt;tr&gt;
           &lt;td&gt;N₂ in gas&lt;/td&gt;
-          &lt;td&gt;12.50&lt;/td&gt;
+          &lt;td&gt;$12.50&lt;/td&gt;
           &lt;td&gt;$14.75&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
           &lt;td&gt;DIC&lt;/td&gt;
-          &lt;td&gt;$-&lt;/td&gt;
-          &lt;td&gt;$-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
         &lt;/tr&gt;
       &lt;/tbody&gt;
     &lt;/table&gt;
@@ -223,6 +231,15 @@
   }
   .fancy-table tr:hover td {
     background-color: #f1f1f1;
+  }
+
+  /* Hides the &#34;Last updated&#34; date text, feedback widget, and NEXT/PREVIOUS pager */
+  .body-footer,
+  .article-widget,
+  .page-footer,
+  .docs-navigation,
+  .pager-nav {
+    display: none !important;
   }
 &lt;/style&gt;</description>
     </item>
@@ -340,6 +357,14 @@
   }
   .fancy-table tr:hover td {
     background-color: #f1f1f1;
+  }
+  /* Hides the &#34;Last updated&#34; date text, feedback widget, and NEXT/PREVIOUS pager */
+  .body-footer,
+  .article-widget,
+  .page-footer,
+  .docs-navigation,
+  .pager-nav {
+    display: none !important;
   }
 &lt;/style&gt;</description>
     </item>
