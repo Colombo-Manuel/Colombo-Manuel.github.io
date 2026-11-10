@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VIMS Stable Isotope Analysis Facility (VIMS-IRMS) | B.A.B. Lab</title>
+    <link>http://localhost:1313/services/irms-copy/</link>
+      <atom:link href="http://localhost:1313/services/irms-copy/index.xml" rel="self" type="application/rss+xml" />
+    <description>VIMS Stable Isotope Analysis Facility (VIMS-IRMS)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huf1d3085986ef1a427864a02e550ff7cd_65514_512x512_fill_lanczos_center_3.png</url>
+      <title>VIMS Stable Isotope Analysis Facility (VIMS-IRMS)</title>
+      <link>http://localhost:1313/services/irms-copy/</link>
+    </image>
+    
+    <item>
+      <title>EA-IRMS</title>
+      <link>http://localhost:1313/services/irms-copy/ea-irms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/irms-copy/ea-irms/</guid>
+      <description>&lt;p&gt;Our Elemental Analyzer-IRMS (Costech ECS 4010 CHNS-O &amp;amp; DeltaV IRMS) is optimized for stable carbon and nitrogen isotopic analyses (δ¹³C and δ¹⁵N) in solid matrices. We also perform %OC and %N analysis. Services include C &amp;amp; N in solids, tinning, acid fumigation, and difficult sample processing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please fill out the sample submission form&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: center; margin-top: 2rem;&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/services/irms/ea_sampleinfo.xlsx&#34; style=&#34;background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;&#34;&gt;Download VIMS IRMS Sample Info file&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;layout-wrapper&#34;&gt;
+  &lt;!-- Left side: The Picture --&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/services/irms/ea.png&#34; alt=&#34;EA-IRMS Setup&#34;&gt;
+  &lt;/div&gt;
+  &lt;!-- Right side: The Fancy Table --&gt;
+  &lt;div class=&#34;table-container fancy-table&#34;&gt;
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th&gt;Service&lt;/th&gt;
+          &lt;th&gt;Internal Cost&lt;/th&gt;
+          &lt;th&gt;External Cost&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;C &amp; N in solids&lt;/td&gt;
+          &lt;td&gt;$9.25&lt;/td&gt;
+          &lt;td&gt;$10.92&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Tinning samples&lt;/td&gt;
+          &lt;td&gt;$10.00&lt;/td&gt;
+          &lt;td&gt;$11.80&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Difficult samples&lt;/td&gt;
+          &lt;td&gt;$3.00&lt;/td&gt;
+          &lt;td&gt;$3.54&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Acid fumigation&lt;/td&gt;
+          &lt;td&gt;$2.25&lt;/td&gt;
+          &lt;td&gt;$2.66&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;For inquiries, please contact Dr. Amanda Timmerman.&lt;/em&gt;&lt;/p&gt;
+&lt;style&gt;
+  /* Layout Container */
+  .layout-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    align-items: center;
+    margin: 30px 0;
+  }
+  
+  .image-container {
+    flex: 1 1 250px; /* Allows image to scale down but sets a baseline size */
+  }
+  
+  .image-container img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    display: block; /* Removes weird bottom spacing under images */
+  }
+
+  .table-container {
+    flex: 1.5 1 350px; /* Gives the table 1.5x more priority for screen space */
+    overflow-x: auto;  /* Safety net: adds a scrollbar if space is extremely tight */
+  }
+
+  /* Table Styles */
+  .fancy-table table {
+    width: 100%;
+    min-width: 320px; /* Prevents the table from squishing itself to death */
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .fancy-table th {
+    background-color: darkblue;
+    color: white;
+    padding: 14px;
+    font-size: 1.05em;
+    text-align: left;
+    border: none;
+    vertical-align: middle;
+    white-space: nowrap; 
+  }
+  .fancy-table td {
+    padding: 12px 14px;
+    border-bottom: 1px solid #e0e0e0;
+    background-color: #fafafa;
+  }
+  .fancy-table tr:last-child td {
+    border-bottom: none;
+  }
+  .fancy-table tr:hover td {
+    background-color: #f1f1f1;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>GB-IRMS</title>
+      <link>http://localhost:1313/services/irms-copy/gb-irms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/irms-copy/gb-irms/</guid>
+      <description>&lt;p&gt;Our Gas Bench-IRMS (Delta-V advantage IRMS with dual inlet and Conflo IV interfaced with a GasBench II peripheral, Thermo Fisher Scientific) is optimized for continuous flow isotope ratio determinations of CO₂ and N₂ headspace gases (δ¹³C and δ¹⁵N).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please fill out the sample submission form&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: center; margin-top: 2rem;&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/services/irms/ea_sampleinfo.xlsx&#34; style=&#34;background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;&#34;&gt;Download VIMS IRMS Sample Info file&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;layout-wrapper&#34;&gt;
+  &lt;!-- Left side: The Picture --&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/services/irms/ea.png&#34; alt=&#34;EA-IRMS Setup&#34;&gt;
+  &lt;/div&gt;
+  &lt;!-- Right side: The Fancy Table --&gt;
+  &lt;div class=&#34;table-container fancy-table&#34;&gt;
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th&gt;Service&lt;/th&gt;
+          &lt;th&gt;Internal Cost&lt;/th&gt;
+          &lt;th&gt;External Cost&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;CO₂ in gas&lt;/td&gt;
+          &lt;td&gt;$17&lt;/td&gt;
+          &lt;td&gt;$20.06&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;N₂ in gas&lt;/td&gt;
+          &lt;td&gt;12.50&lt;/td&gt;
+          &lt;td&gt;$14.75&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;DIC&lt;/td&gt;
+          &lt;td&gt;$-&lt;/td&gt;
+          &lt;td&gt;$-&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;For inquiries, please contact Dr. Amanda Timmerman.&lt;/em&gt;&lt;/p&gt;
+&lt;style&gt;
+  /* Layout Container */
+  .layout-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    align-items: center;
+    margin: 30px 0;
+  }
+  
+  .image-container {
+    flex: 1 1 250px; /* Allows image to scale down but sets a baseline size */
+  }
+  
+  .image-container img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    display: block; /* Removes weird bottom spacing under images */
+  }
+
+  .table-container {
+    flex: 1.5 1 350px; /* Gives the table 1.5x more priority for screen space */
+    overflow-x: auto;  /* Safety net: adds a scrollbar if space is extremely tight */
+  }
+
+  /* Table Styles */
+  .fancy-table table {
+    width: 100%;
+    min-width: 320px; /* Prevents the table from squishing itself to death */
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .fancy-table th {
+    background-color: darkblue;
+    color: white;
+    padding: 14px;
+    font-size: 1.05em;
+    text-align: left;
+    border: none;
+    vertical-align: middle;
+    white-space: nowrap; 
+  }
+  .fancy-table td {
+    padding: 12px 14px;
+    border-bottom: 1px solid #e0e0e0;
+    background-color: #fafafa;
+  }
+  .fancy-table tr:last-child td {
+    border-bottom: none;
+  }
+  .fancy-table tr:hover td {
+    background-color: #f1f1f1;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>GC-IRMS</title>
+      <link>http://localhost:1313/services/irms-copy/gc-irms-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/irms-copy/gc-irms-copy/</guid>
+      <description>&lt;p&gt;Our Gas Chromatograph-IRMS (Trace 1610 GC and a GC IsoLink II -combustion/conversion- coupled via a ConFlo IV to a Delta Q IRMS, Thermo Fisher Scientific) is optimized for compound Specific Isotopic Analysis (CSIA; δ¹³C and δ¹⁵N) for lipid biomarkers and Amino Acids. If interested in other compounds, please contact us.&lt;/p&gt;
+&lt;!-- __Please fill out the sample submission form__
+
+&lt;div style=&#34;text-align: center; margin-top: 2rem;&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/services/irms/ea_sampleinfo.xlsx&#34; style=&#34;background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;&#34;&gt;Download VIMS IRMS Sample Info file&lt;/a&gt;
+&lt;/div&gt; --&gt;
+&lt;div class=&#34;layout-wrapper&#34;&gt;
+  &lt;!-- Left side: The Picture --&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/services/irms/gc.png&#34; alt=&#34;EA-IRMS Setup&#34;&gt;
+  &lt;/div&gt;
+  &lt;!-- Right side: The Fancy Table --&gt;
+  &lt;div class=&#34;table-container fancy-table&#34;&gt;
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th&gt;Service&lt;/th&gt;
+          &lt;th&gt;Internal Cost&lt;/th&gt;
+          &lt;th&gt;External Cost&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;CSIA-FAMES &amp; n-Alkanes&lt;/td&gt;
+          &lt;td&gt;$140.50&lt;/td&gt;
+          &lt;td&gt;$165.79&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Biomarkers extraction&lt;/td&gt;
+          &lt;td&gt;$70.50&lt;/td&gt;
+          &lt;td&gt;$84.37&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;FAMES derivatization&lt;/td&gt;
+          &lt;td&gt;$92.50&lt;/td&gt;
+          &lt;td&gt;$109.15&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;GC-FID (quantification)&lt;/td&gt;
+          &lt;td&gt;$16&lt;/td&gt;
+          &lt;td&gt;$18.88&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;CSIA-Amino acids&lt;/td&gt;
+          &lt;td&gt;$250&lt;/td&gt;
+          &lt;td&gt;$295.00&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;For inquiries, please contact Dr. Amanda Timmerman.&lt;/em&gt;&lt;/p&gt;
+&lt;style&gt;
+  /* Layout Container */
+  .layout-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    align-items: center;
+    margin: 30px 0;
+  }
+  
+  .image-container {
+    flex: 1 1 250px; /* Allows image to scale down but sets a baseline size */
+  }
+  
+  .image-container img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    display: block; /* Removes weird bottom spacing under images */
+  }
+
+  .table-container {
+    flex: 1.5 1 350px; /* Gives the table 1.5x more priority for screen space */
+    overflow-x: auto;  /* Safety net: adds a scrollbar if space is extremely tight */
+  }
+
+  /* Table Styles */
+  .fancy-table table {
+    width: 100%;
+    min-width: 320px; /* Prevents the table from squishing itself to death */
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .fancy-table th {
+    background-color: darkblue;
+    color: white;
+    padding: 14px;
+    font-size: 1.05em;
+    text-align: left;
+    border: none;
+    vertical-align: middle;
+    white-space: nowrap; 
+  }
+  .fancy-table td {
+    padding: 12px 14px;
+    border-bottom: 1px solid #e0e0e0;
+    background-color: #fafafa;
+  }
+  .fancy-table tr:last-child td {
+    border-bottom: none;
+  }
+  .fancy-table tr:hover td {
+    background-color: #f1f1f1;
+  }
+&lt;/style&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
